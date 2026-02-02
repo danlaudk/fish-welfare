@@ -1,0 +1,1462 @@
+pond_id,region,event_date,event_type,logged_by,lifecycle_stage,species,species_ratio,target_weight_grams,average_weight_grams,intended_stocking_density_per_acre,actual_stocking_density_per_acre,fish_harvested_kg,fish_remaining_individuals,harvest_reason,pond_preparation_done
+pond_44865e41,West Godavari,2026-01-06,Partial harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,80.0,,,,140000,Planned harvest,
+pond_74ea5a99,West Godavari,2026-01-06,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,6667,6667.0,,,,False
+pond_47f64c85,West Godavari,2026-01-05,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,Planned harvest,
+pond_f18f1d57,Nellore,2026-01-05,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,550.0,,,3025,0,Planned harvest,
+pond_09f0cd92,Nellore,2026-01-04,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,22800,0,Planned harvest,
+pond_5f07dc7a,West Godavari,2026-01-02,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,300.0,100.0,4190,4190.0,,,,False
+pond_ee1be8cb,West Godavari,2025-12-31,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1600.0,,,200000,0,Planned harvest,
+pond_bf58902e,Nellore,2025-12-30,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,250.0,2907,2907.0,,,,True
+pond_46bbdb3a,West Godavari,2025-12-26,Partial stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,5941,5941.0,,,,False
+pond_74ea5a99,West Godavari,2025-12-24,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,Planned sale,
+pond_51789df8,West Godavari,2025-12-24,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,4.0,16000,16000.0,,,,False
+pond_c2458988,West Godavari,2025-12-20,Partial stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,150.0,20.0,13931,13931.0,,,,False
+pond_3a0067e4,West Godavari,2025-12-20,Partial harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,20.0,,,,150000,Planned harvest,
+pond_51789df8,West Godavari,2025-12-20,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,254.0,,,,60000,Planned harvest,
+pond_c7407a79,West Godavari,2025-12-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,254.0,2773,2773.0,,,,False
+pond_a2a9984f,Nellore,2025-12-16,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,940.0,,,9450,0,Planned harvest,
+pond_cc57546e,West Godavari,2025-12-16,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,253.0,2635,2635.0,,,,False
+pond_c2458988,West Godavari,2025-12-16,Partial harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,91000,Planned harvest,
+pond_f569e116,Nellore,2025-12-15,Harvest,Chaitanya,Grow-out,Roopchand,,,820.0,,,7000,0,Planned harvest,
+pond_c7407a79,West Godavari,2025-12-15,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,88000,0,Planned harvest,
+pond_2781ed8d,West Godavari,2025-12-14,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,40.0,11818,11818.0,,,,False
+pond_b6292420,West Godavari,2025-12-14,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,40.0,14286,14286.0,,,,False
+pond_304a9d41,West Godavari,2025-12-14,Stocking,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,50.0,10.0,71429,71429.0,,,,True
+pond_f1f0953d,West Godavari,2025-12-14,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,300.0,2268,2268.0,,,,False
+pond_f6d09111,West Godavari,2025-12-13,Partial harvest,Chaitanya,Nursery,"Rohu (Labeo rohita), Catla (Catla catla)",,,40.0,,,,29000,Planned harvest,
+pond_60dd3196,West Godavari,2025-12-13,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,40.0,15068,15068.0,,,,False
+pond_eb2903bd,West Godavari,2025-12-13,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,350.0,2927,2927.0,,,,False
+pond_da9e5287,Nellore,2025-12-12,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,700.0,,,1695,0,Planned harvest,
+pond_d7feb952,West Godavari,2025-12-12,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,50.0,10476,10476.0,,,,False
+pond_56e8a695,West Godavari,2025-12-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,157.0,2052,2052.0,,,,False
+pond_cc547e32,West Godavari,2025-12-12,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_80e22f42,West Godavari,2025-12-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,206.0,2963,2963.0,,,,False
+pond_4e07e1a3,West Godavari,2025-12-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,259.0,2516,2516.0,,,,False
+pond_a32076ad,West Godavari,2025-12-11,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,60.0,13208,13208.0,,,,False
+pond_aae69640,Nellore,2025-12-10,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,960.0,,,12490,0,Planned harvest,
+pond_60e4cad8,West Godavari,2025-12-10,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_7fc56232,Nellore,2025-12-06,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,980.0,,,13720,0,Planned harvest,
+pond_1d648007,Nellore,2025-12-05,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,100.0,2386,2386.0,,,,False
+pond_08867f11,West Godavari,2025-12-04,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,105000,0,Planned harvest,
+pond_cc57546e,West Godavari,2025-12-03,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1400.0,,,55000,0,Planned harvest,
+pond_80e22f42,West Godavari,2025-12-03,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,90000,0,Planned harvest,
+pond_eb2903bd,West Godavari,2025-12-02,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,54000,0,Planned harvest,
+pond_b842374c,Nellore,2025-12-02,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,960.0,,,4800,0,Planned harvest,
+pond_727e3097,West Godavari,2025-12-01,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,300.0,60.0,12791,12791.0,,,,False
+pond_5f07dc7a,West Godavari,2025-12-01,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,0,Planned harvest,
+pond_9644548f,West Godavari,2025-12-01,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,900.0,,,50000,0,,
+pond_56e8a695,West Godavari,2025-11-30,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1800.0,,,104000,0,Planned harvest,
+pond_bd0e0d33,West Godavari,2025-11-30,Stocking,Chaitanya,Nursery,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,80.0,5.0,121359,121359.0,,,,True
+pond_f1f0953d,West Godavari,2025-11-29,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,130000,0,Planned harvest,
+pond_373669d6,Nellore,2025-11-27,Stocking,Chaitanya,Grow-out,Rohu (Labeo rohita),9:1,1500.0,200.0,848,848.0,,,,False
+pond_3da22c74,West Godavari,2025-11-25,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_2ec8980d,Nellore,2025-11-22,Harvest,Chaitanya,Grow-out,Roopchand,,,930.0,,,9300,0,Planned harvest,
+pond_87edd7c9,West Godavari,2025-11-22,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,263.0,2304,2304.0,,,,True
+pond_a0b42194,West Godavari,2025-11-22,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,30.0,11538,11538.0,,,,False
+pond_1dbb9f8d,Nellore,2025-11-21,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,760.0,,,3800,0,Planned harvest,
+pond_46bbdb3a,West Godavari,2025-11-21,Partial harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,10000,Planned harvest,
+pond_522cd38a,West Godavari,2025-11-20,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,6316,6316.0,,,,False
+pond_727e3097,West Godavari,2025-11-19,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1100.0,,,18000,0,Planned harvest,
+pond_304a9d41,West Godavari,2025-11-19,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,150.0,,,,0,Planned harvest,
+pond_aabd8703,Nellore,2025-11-18,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,8400,0,Planned harvest,
+pond_0b0963e5,West Godavari,2025-11-18,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,5357,5357.0,,,,False
+pond_369dc183,West Godavari,2025-11-16,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,850.0,,,43000,0,,
+pond_ba85724b,Nellore,2025-11-16,Stocking,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,100.0,20.0,23474,23474.0,,,,True
+pond_0b972252,Nellore,2025-11-16,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,78000,0,Planned harvest,
+pond_07ed9225,Nellore,2025-11-15,Harvest,Chaitanya,Grow-out,Roopchand,,,650.0,,,2390,0,Planned harvest,
+pond_7ef7fef9,West Godavari,2025-11-14,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,,
+pond_bed02137,West Godavari,2025-11-14,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,50.0,,,,0,,
+pond_bf58902e,Nellore,2025-11-13,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,970.0,,,11670,0,Planned harvest,
+pond_d7feb952,West Godavari,2025-11-12,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,0,Planned harvest,
+pond_60dd3196,West Godavari,2025-11-12,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,0,Planned harvest,
+pond_8902ecd3,West Godavari,2025-11-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,260.0,2500,2500.0,,,,False
+pond_41a4dead,West Godavari,2025-11-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,259.0,2398,2398.0,,,,False
+pond_9a0003fb,West Godavari,2025-11-12,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,312.0,2704,2704.0,,,,False
+pond_4e07e1a3,West Godavari,2025-11-08,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1500.0,,,120000,0,Planned harvest,
+pond_4302964d,West Godavari,2025-11-08,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,35089,35089.0,,,,False
+pond_10b0b2f6,Nellore,2025-11-07,Stocking,Chaitanya,Grow-out,Roopchand,10,800.0,50.0,3356,3356.0,,,,True
+pond_1bf4ea64,Nellore,2025-11-07,Stocking,Chaitanya,Grow-out,Roopchand,10,800.0,50.0,3521,3521.0,,,,True
+pond_1c1e7d4b,Nellore,2025-11-07,Stocking,Chaitanya,Grow-out,Roopchand,10,800.0,100.0,3378,3378.0,,,,False
+pond_9719af6d,Nellore,2025-11-07,Harvest,Chaitanya,Grow-out,Roopchand,,,1200.0,,,58200,0,Planned harvest,
+pond_dc98e449,West Godavari,2025-11-06,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,50000,0,Planned harvest,
+pond_7472ede8,West Godavari,2025-11-06,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,Planned harvest,
+pond_aef38b14,Nellore,2025-11-05,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,970.0,,,17550,0,Planned harvest,
+pond_0b0963e5,West Godavari,2025-11-05,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_41a4dead,West Godavari,2025-11-05,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,85000,0,Planned harvest,
+pond_dda2c111,Nellore,2025-11-04,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,60.0,,,,0,Planned harvest,
+pond_55356fc9,West Godavari,2025-11-04,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,105.0,2358,2358.0,,,,False
+pond_2f7733e2,Nellore,2025-11-03,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,2200.0,2200,2200.0,,,,True
+pond_43720001,Nellore,2025-11-03,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,250.0,2200,2200.0,,,,True
+pond_251e0d5b,West Godavari,2025-11-03,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1100.0,,,55000,0,Planned harvest,
+pond_a3c9d163,Nellore,2025-11-02,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,800.0,150.0,3233,3233.0,,,,True
+pond_cf53cb6f,Nellore,2025-11-02,Harvest,Chaitanya,Grow-out,Roopchand,,,860.0,,,10320,0,Planned harvest,
+pond_9a0003fb,West Godavari,2025-11-02,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1055.0,,,60000,0,Planned harvest,
+pond_4a880fc8,West Godavari,2025-11-01,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,350.0,2281,2281.0,,,,False
+pond_319c1ff7,West Godavari,2025-10-30,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,207.0,1733,1733.0,,,,False
+pond_2e1713ae,Nellore,2025-10-29,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,750.0,250.0,3529,3529.0,,,,True
+pond_8902ecd3,West Godavari,2025-10-28,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,66000,0,Planned harvest,
+pond_c2dd8e7c,West Godavari,2025-10-28,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1100.0,,,90000,0,Planned harvest,
+pond_299152dc,Nellore,2025-10-27,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,850.0,,,1870,0,Planned harvest,
+pond_1d648007,Nellore,2025-10-27,Harvest,Chaitanya,Grow-out,Roopchand,,,900.0,,,2250,0,Planned harvest,
+pond_a6578b7f,West Godavari,2025-10-24,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,350.0,2226,2226.0,,,,False
+pond_89aabef8,West Godavari,2025-10-22,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,300.0,40.0,5842,5842.0,,,,False
+pond_55356fc9,West Godavari,2025-10-22,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,52000,0,Planned harvest,
+pond_4fc9a5af,Nellore,2025-10-20,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,50.0,,,,0,Planned harvest,
+pond_69509b5b,West Godavari,2025-10-20,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,30.0,9000,9000.0,,,,False
+pond_c8879b29,West Godavari,2025-10-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,300.0,2426,2426.0,,,,False
+pond_6772b310,West Godavari,2025-10-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,107.0,3000,3000.0,,,,False
+pond_aae02d77,West Godavari,2025-10-20,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,350.0,50.0,5625,5625.0,,,,False
+pond_89aabef8,West Godavari,2025-10-18,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,Planned harvest,
+pond_b3126696,West Godavari,2025-10-18,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,313.0,2721,2721.0,,,,False
+pond_ac7bb683,West Godavari,2025-10-18,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,400.0,150.0,5814,5814.0,,,,False
+pond_b36b9eee,West Godavari,2025-10-17,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,96000,0,Planned harvest,
+pond_d01750af,Nellore,2025-10-15,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,950.0,,,13400,0,Planned harvest,
+pond_319c1ff7,West Godavari,2025-10-15,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1600.0,,,45000`,0,Planned harvest,
+pond_a32076ad,West Godavari,2025-10-12,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,0,Planned harvest,
+pond_11799705,West Godavari,2025-10-11,Partial harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,40000,20000,Planned harvest,
+pond_b3126696,West Godavari,2025-10-11,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1380.0,,,64000,0,Planned harvest,
+pond_2781ed8d,West Godavari,2025-10-10,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_b6292420,West Godavari,2025-10-10,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,0,Planned harvest,
+pond_69509b5b,West Godavari,2025-10-10,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,400.0,,,,,Planned harvest,
+pond_a80e42b6,West Godavari,2025-10-08,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,9153,9153.0,,,,False
+pond_4a880fc8,West Godavari,2025-10-08,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,78000,0,Planned harvest,
+pond_0a3f9f76,West Godavari,2025-10-07,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,150.0,2357,2357.0,,,,False
+pond_c8879b29,West Godavari,2025-10-06,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1050.0,,,70000,6000,Planned harvest,
+pond_ac7bb683,West Godavari,2025-10-02,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,600.0,,,,0,Planned harvest,
+pond_3a0067e4,West Godavari,2025-10-01,Stocking,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,150.0,10.0,63158,63158.0,,,,False
+pond_7fd480e0,West Godavari,2025-10-01,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,150.0,2546,2546.0,,,,True
+pond_05d9df8f,West Godavari,2025-09-28,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,300.0,30.0,7368,7368.0,,,,False
+pond_bdf8fe72,West Godavari,2025-09-25,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,7576,7576.0,,,,False
+pond_ba85724b,Nellore,2025-09-22,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,900.0,,,3340,0,Planned harvest,
+pond_2781ed8d,West Godavari,2025-09-22,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,50.0,11818,11818.0,,,,False
+pond_05edabe9,West Godavari,2025-09-22,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,40000,0,Planned harvest,
+pond_6772b310,West Godavari,2025-09-22,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1363.0,,,30000,0,Planned harvest,
+pond_5aaa5b01,West Godavari,2025-09-20,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,66000,0,Planned harvest,
+pond_868241e3,West Godavari,2025-09-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,200.0,2240,2240.0,,,,True
+pond_e25b2cfc,West Godavari,2025-09-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,106.0,2740,2740.0,,,,False
+pond_e797c43a,West Godavari,2025-09-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,106.0,2963,2963.0,,,,False
+pond_439eae87,West Godavari,2025-09-20,Partial harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,269.0,,,,31500,Planned harvest,
+pond_16becad9,West Godavari,2025-09-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,269.0,2407,2407.0,,,,False
+pond_5557d8af,West Godavari,2025-09-19,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,950.0,,,41000,0,Planned harvest,
+pond_d8d30ad3,West Godavari,2025-09-19,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,209.0,2129,2129.0,,,,False
+pond_b08d22b5,West Godavari,2025-09-18,Harvest,Chaitanya,Nursery,"Rohu (Labeo rohita), Catla (Catla catla)",,,150.0,,,,0,Planned harvest,
+pond_a72a9ad7,West Godavari,2025-09-18,Stocking,Chaitanya,Nursery,Rohu (Labeo rohita),9:1,50.0,10.0,70175,70175.0,,,,False
+pond_7dded911,West Godavari,2025-09-17,Harvest,Chaitanya,Rearing,Catla (Catla catla),,,200.0,,,,0,Planned harvest,
+pond_aae02d77,West Godavari,2025-09-15,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,400.0,,,,0,Planned harvest,
+pond_fc8ef4d2,West Godavari,2025-09-15,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,30.0,6667,6667.0,,,,False
+pond_bed02137,West Godavari,2025-09-15,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,150.0,30.0,7407,7407.0,,,,True
+pond_bd0e0d33,West Godavari,2025-09-10,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,700.0,,,30000,0,,
+pond_a434fd56,West Godavari,2025-09-10,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,,,,0,Planned harvest,
+pond_c2458988,West Godavari,2025-09-10,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,200.0,50.0,7514,7514.0,,,,True
+pond_cf980f71,West Godavari,2025-09-08,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,350.0,2588,2588.0,,,,False
+pond_5f9e292b,West Godavari,2025-09-08,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,300.0,2729,2729.0,,,,False
+pond_a6578b7f,West Godavari,2025-09-06,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,84000,0,Planned harvest,
+pond_e25b2cfc,West Godavari,2025-09-05,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,36000,0,Planned harvest,
+pond_3a0067e4,West Godavari,2025-09-05,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,100.0,,,,0,Planned harvest,
+pond_f18f1d57,Nellore,2025-09-04,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,100.0,2631,2631.0,,,,True
+pond_0a3f9f76,West Godavari,2025-09-04,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,60000,0,Planned harvest,
+pond_b3ee7ac9,West Godavari,2025-08-31,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,50000,0,Planned harvest,
+pond_5f9e292b,West Godavari,2025-08-29,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,100000,0,Planned harvest,
+pond_da579dd5,Nellore,2025-08-29,Stocking,Chaitanya,Grow-out,Rohu (Labeo rohita),10,1000.0,250.0,1154,1154.0,,,,True
+pond_edb67ba0,Nellore,2025-08-29,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,400.0,2941,2941.0,,,,True
+pond_16becad9,West Godavari,2025-08-28,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1371.0,,,45000,0,Planned harvest,
+pond_d81b6f9f,West Godavari,2025-08-28,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,150.0,30.0,10588,10588.0,,,,False
+pond_c5b49325,West Godavari,2025-08-27,Stocking,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,250.0,50.0,7000,7000.0,,,,False
+pond_05f65197,West Godavari,2025-08-27,Stocking,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,100.0,10.0,38571,38517.0,,,,False
+pond_bd0f4fd7,Nellore,2025-08-27,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,150.0,2857,2857.0,,,,True
+pond_05d9df8f,West Godavari,2025-08-25,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,,0,Planned harvest,
+pond_49ea61c0,West Godavari,2025-08-25,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1400.0,,,60000,0,Planned harvest,
+pond_2e0e9d1a,West Godavari,2025-08-25,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,2787,2787.0,,,,False
+pond_ca25b296,West Godavari,2025-08-25,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,3201,3201.0,,,,False
+pond_f569e116,Nellore,2025-08-24,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,300.0,3036,3036.0,,,,True
+pond_f86d5d94,West Godavari,2025-08-24,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,3243,3243.0,,,,True
+pond_bee2e7f5,West Godavari,2025-08-23,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,11029,11029.0,,,,True
+pond_e95651d9,West Godavari,2025-08-22,Stocking,Chaitanya,Nursery,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,30.0,1.0,166667,166667.0,,,,False
+pond_17b6d1f2,West Godavari,2025-08-22,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,250.0,1383,1383.0,,,,False
+pond_a1a3333d,West Godavari,2025-08-22,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1200.0,150.0,1842,1842.0,,,,False
+pond_d252b4e3,Nellore,2025-08-21,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,916.0,,,2290,0,Planned harvest,
+pond_8fd1554c,West Godavari,2025-08-20,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,350.0,,,,0,Planned harvest,
+pond_a0b42194,West Godavari,2025-08-18,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,970.0,,,30000,0,Planned harvest,
+pond_b7082dc1,West Godavari,2025-08-15,Stocking,Chaitanya,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,20.0,2.0,200000,200000.0,,,,False
+pond_c0b647c8,Nellore,2025-08-14,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,150.0,2973,2973.0,,,,False
+pond_aae69640,Nellore,2025-08-14,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,800.0,300.0,3044,3044.0,,,,True
+pond_e2db7a6b,West Godavari,2025-08-13,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,30.0,11667,11667.0,,,,False
+pond_d8d30ad3,West Godavari,2025-08-13,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,106000,0,Planned harvest,
+pond_0b18540f,West Godavari,2025-08-12,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1176.0,,,40000,0,Planned harvest,
+pond_304a9d41,West Godavari,2025-08-11,Partial harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,,,,100000,Planned harvest,
+pond_7fd480e0,West Godavari,2025-08-11,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,30000,0,Planned harvest,
+pond_4fc9a5af,Nellore,2025-08-10,Stocking,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,100.0,5.0,46512,46512.0,,,,True
+pond_2855b437,West Godavari,2025-08-10,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,30.0,9167,9167.0,,,,False
+pond_b9aedd06,West Godavari,2025-08-10,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,80.0,30.0,35714,35714.0,,,,False
+pond_b7082dc1,West Godavari,2025-08-10,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_60e4cad8,West Godavari,2025-08-10,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,62.0,1905,1905.0,,,,False
+pond_0b61fd61,West Godavari,2025-08-10,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,55000,Planned harvest,
+pond_2e1713ae,Nellore,2025-08-09,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1080.0,,,15200,0,Planned harvest,
+pond_1d249330,Nellore,2025-08-06,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,1000.0,400.0,1286,1286.0,,,,True
+pond_c5b49325,West Godavari,2025-08-06,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,33000,Planned harvest,
+pond_35f0d376,West Godavari,2025-08-06,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,316.0,2227,2227.0,,,,False
+pond_8bf8a86a,West Godavari,2025-08-05,Harvest,Chaitanya,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,350.0,,,,0,Planned harvest,
+pond_373669d6,Nellore,2025-08-03,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,913.0,,,1370,0,Planned harvest,
+pond_a72a9ad7,West Godavari,2025-08-03,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,0,Planned harvest,
+pond_44f24b9a,West Godavari,2025-08-01,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,359.0,2844,2844.0,,,,False
+pond_2781ed8d,West Godavari,2025-08-01,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,0,Planned harvest,
+pond_f6d09111,West Godavari,2025-08-01,Stocking,Chaitanya,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,5.0,100000,100000.0,,,,True
+pond_27785ee9,West Godavari,2025-08-01,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,10.0,66667,66667.0,,,,False
+pond_46bbdb3a,West Godavari,2025-08-01,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,5941,5941.0,,,,True
+pond_47f64c85,West Godavari,2025-08-01,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,5000,5000.0,,,,False
+pond_2e0e9d1a,West Godavari,2025-08-01,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,12000,0,Planned harvest,
+pond_348a1d24,West Godavari,2025-07-31,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,2398,2398.0,,,,False
+pond_44865e41,West Godavari,2025-07-31,Partial stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,10.0,87857,87857.0,,,,False
+pond_05f65197,West Godavari,2025-07-29,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,80.0,,,,,Planned harvest,
+pond_d1de1045,Nellore,2025-07-29,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,400.0,1970,1970.0,,,,False
+pond_60e4cad8,West Godavari,2025-07-29,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,0,Planned harvest,
+pond_a32076ad,West Godavari,2025-07-29,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,40.0,13208,13208.0,,,,False
+pond_b6292420,West Godavari,2025-07-29,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,40.0,14286,14286.0,,,,False
+pond_a2a9984f,Nellore,2025-07-28,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2833,2833.0,,,,True
+pond_44865e41,West Godavari,2025-07-28,Partial harvest,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",,,80.0,,,,120000,Planned harvest,
+pond_74ea5a99,West Godavari,2025-07-28,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,40.0,6667,6667.0,,,,False
+pond_868241e3,West Godavari,2025-07-26,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,0,Planned harvest,
+pond_b296eebf,West Godavari,2025-07-26,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,330.0,2078,2078.0,,,,False
+pond_e95651d9,West Godavari,2025-07-25,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,80.0,,,,,Planned harvest,
+pond_e2db7a6b,West Godavari,2025-07-25,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,,Planned harvest,
+pond_ca25b296,West Godavari,2025-07-25,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,8000,0,Planned harvest,
+pond_b9aedd06,West Godavari,2025-07-24,Harvest,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,,,Planned harvest,
+pond_988c1692,West Godavari,2025-07-24,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,60000,0,Planned harvest,
+pond_348a1d24,West Godavari,2025-07-24,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1600.0,,,140000,0,Planned harvest,
+pond_6526e587,West Godavari,2025-07-24,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_a32076ad,West Godavari,2025-07-24,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,0,Planned harvest,
+pond_b6292420,West Godavari,2025-07-24,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,,Planned harvest,
+pond_7eadb9bf,West Godavari,2025-07-24,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2857,2857.0,,,,False
+pond_9644548f,West Godavari,2025-07-24,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2791,2791.0,,,,False
+pond_17b6d1f2,West Godavari,2025-07-23,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1000.0,,,70000,0,Planned harvest,
+pond_2855b437,West Godavari,2025-07-23,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,150.0,,,,,Planned harvest,
+pond_35f0d376,West Godavari,2025-07-22,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1800.0,,,175000,0,Planned harvest,
+pond_b296eebf,West Godavari,2025-07-22,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1700.0,,,110000,0,Planned harvest,
+pond_bee2e7f5,West Godavari,2025-07-21,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,0,Planned harvest,
+pond_cf980f71,West Godavari,2025-07-20,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1300.0,,,156000,0,Planned harvest,
+pond_47f64c85,West Godavari,2025-07-20,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,50000,Planned harvest,
+pond_f5ca6183,West Godavari,2025-07-20,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,0,Planned harvest,
+pond_74ea5a99,West Godavari,2025-07-20,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,45000,0,Planned harvest,
+pond_d81b6f9f,West Godavari,2025-07-18,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,150.0,,,,,Planned harvest,
+pond_c295a799,West Godavari,2025-07-16,Harvest,Chaitanya,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",,,30.0,,,,0,Planned harvest,
+pond_a1a3333d,West Godavari,2025-07-16,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,78000,0,Planned harvest,
+pond_60dd3196,West Godavari,2025-07-13,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,50.0,13699,13699.0,,,,False
+pond_e6185c34,West Godavari,2025-07-13,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,150.0,2222,2222.0,,,,False
+pond_10b0b2f6,Nellore,2025-07-10,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,700.0,,,3500,0,Planned harvest,
+pond_d85b342c,West Godavari,2025-07-10,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_4cef5872,Nellore,2025-07-10,Stocking,Chaitanya,Grow-out,"Roopchand, Catla (Catla catla)",9.5:0.5,1000.0,50.0,2817,2817.0,,,,True
+pond_7eadb9bf,West Godavari,2025-07-08,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,950.0,,,89000,0,Disease outbreak,
+pond_9644548f,West Godavari,2025-07-08,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,66000,0,Planned harvest,
+pond_e6185c34,West Godavari,2025-07-08,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1272.0,,,70000,0,Planned harvest,
+pond_8e6046b4,West Godavari,2025-07-07,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,360.0,2239,2239.0,,,,False
+pond_87edd7c9,West Godavari,2025-07-06,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1200.0,,,52000,0,Planned harvest,
+pond_21320075,West Godavari,2025-07-06,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,1846,1846.0,,,,False
+pond_46bbdb3a,West Godavari,2025-07-06,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,10200,0,Planned harvest,
+pond_1c1e7d4b,Nellore,2025-07-06,Harvest,Chaitanya,Grow-out,Roopchand,,,700.0,,,5250,0,Planned harvest,
+pond_da9e5287,Nellore,2025-07-05,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,2667,2667.0,,,,True
+pond_9719af6d,Nellore,2025-07-03,Partial harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,35000,48500,Planned harvest,
+pond_07ed9225,Nellore,2025-07-03,Stocking,Chaitanya,Grow-out,"Roopchand, Rohu (Labeo rohita)",9:1,1000.0,100.0,2992,2992.0,,,,True
+pond_e797c43a,West Godavari,2025-07-02,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,35000,0,Planned harvest,
+pond_b842374c,Nellore,2025-07-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,100.0,3000,2165.0,,,,True
+pond_c2458988,West Godavari,2025-06-30,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,24000,0,Planned harvest,
+pond_c01f770d,West Godavari,2025-06-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,150.0,2424,2424.0,,,,False
+pond_1d648007,Nellore,2025-06-29,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,200.0,2841,2841.0,,,,True
+pond_863e7ed4,Nellore,2025-06-28,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,650.0,,,4550,0,Planned harvest,
+pond_1dbb9f8d,Nellore,2025-06-28,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",8.5:1:0.5,1000.0,150.0,2857,2857.0,,,,True
+pond_7fd480e0,West Godavari,2025-06-28,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,12000,23000,Planned harvest,
+pond_44f24b9a,West Godavari,2025-06-28,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",,,500.0,,,,0,Planned harvest,
+pond_44865e41,West Godavari,2025-06-27,Partial stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,80.0,30.0,35714,35714.0,,,,False
+pond_283dc502,West Godavari,2025-06-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,200.0,2432,2432.0,,,,False
+pond_251e0d5b,West Godavari,2025-06-26,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,1667,1667.0,,,,False
+pond_c01f770d,West Godavari,2025-06-24,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,55000,0,Planned harvest,
+pond_7472ede8,West Godavari,2025-06-22,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,4854,4854.0,,,,False
+pond_8a8b9562,West Godavari,2025-06-22,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,25000,0,Planned harvest,
+pond_21320075,West Godavari,2025-06-21,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,2000.0,,,100000,0,Planned harvest,
+pond_0b0963e5,West Godavari,2025-06-20,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,8928,8928.0,,,,False
+pond_44865e41,West Godavari,2025-06-20,Partial harvest,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",,,80.0,,,20000,100000,Planned harvest,
+pond_5f07dc7a,West Godavari,2025-06-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,80.0,7381,7381.0,,,,False
+pond_5f07dc7a,West Godavari,2025-06-19,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,46800,0,Planned harvest,
+pond_b08d22b5,West Godavari,2025-06-17,Partial harvest,Praveen,Nursery,Catla (Catla catla),,,50.0,,,,100000,Planned harvest,
+pond_7dded911,West Godavari,2025-06-17,Stocking,Praveen,Rearing,Catla (Catla catla),0:10,100.0,50.0,60000,60000.0,,,,False
+pond_283dc502,West Godavari,2025-06-13,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,145000,0,Planned harvest,
+pond_17e22e23,West Godavari,2025-06-12,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,300.0,3155,3155.0,,,,False
+pond_0b0963e5,West Godavari,2025-06-10,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,,0,,
+pond_05d9df8f,West Godavari,2025-06-10,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,10.0,7368,7368.0,,,,False
+pond_8fd1554c,West Godavari,2025-06-08,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,500.0,150.0,6452,6452.0,,,,False
+pond_ee1be8cb,West Godavari,2025-06-07,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,700.0,2108,2108.0,,,,False
+pond_eb2903bd,West Godavari,2025-06-06,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2661,2661.0,,,,False
+pond_7dded911,West Godavari,2025-06-05,Harvest,Praveen,Breed-out,Catla (Catla catla),,,300.0,,,6000,0,Planned harvest,
+pond_195e5b24,West Godavari,2025-06-04,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,500.0,1702,1702.0,,,,False
+pond_c295a799,West Godavari,2025-06-02,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,20.0,35088,35088.0,,,,False
+pond_3da22c74,West Godavari,2025-06-01,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,7411,7411.0,,,,False
+pond_89aabef8,West Godavari,2025-06-01,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,100.0,5842,5842.0,,,,False
+pond_c295a799,West Godavari,2025-05-31,Harvest,Praveen,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",,,60.0,,,,0,Planned harvest,
+pond_9252e874,West Godavari,2025-05-30,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,7500,25000,Planned harvest,
+pond_f9218e7b,West Godavari,2025-05-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,300.0,2486,2486.0,,,,False
+pond_bdf8fe72,West Godavari,2025-05-30,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_51789df8,West Godavari,2025-05-29,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,150.0,20.0,15000,15000.0,,,,True
+pond_c7407a79,West Godavari,2025-05-28,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,500.0,250.0,3466,3466.0,,,,False
+pond_195e5b24,West Godavari,2025-05-28,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,60000,0,Planned harvest,
+pond_4afa4e4f,West Godavari,2025-05-27,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,0,Planned harvest,
+pond_8902ecd3,West Godavari,2025-05-26,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,400.0,2500,2500.0,,,,False
+pond_0c63298a,West Godavari,2025-05-24,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,450.0,1556,1556.0,,,,False
+pond_5e81f369,West Godavari,2025-05-24,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,2556,2556.0,,,,False
+pond_bd0f4fd7,Nellore,2025-05-23,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,876.0,,,1600,0,Planned harvest,
+pond_8dd26bbf,West Godavari,2025-05-23,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,400.0,2182,2182.0,,,,False
+pond_05d9df8f,West Godavari,2025-05-23,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,0,Planned harvest,
+pond_e78b9c9a,West Godavari,2025-05-20,Partial stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,180.0,8046,8046.0,,,,False
+pond_b08d22b5,West Godavari,2025-05-20,Stocking,Praveen,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,50.0,10.0,235294,235294.0,,,,False
+pond_69509b5b,West Godavari,2025-05-20,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,500.0,,,,90000,Planned harvest,
+pond_8e6046b4,West Godavari,2025-05-19,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1800.0,,,111000,0,Planned harvest,
+pond_a3c9d163,Nellore,2025-05-17,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,900.0,,,6300,0,Planned harvest,
+pond_5557d8af,West Godavari,2025-05-17,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2560,2560.0,,,,False
+pond_1bf4ea64,Nellore,2025-05-16,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,840.0,,,4200,0,Planned harvest,
+pond_8dd26bbf,West Godavari,2025-05-16,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,72000,0,Planned harvest,
+pond_6526e587,West Godavari,2025-05-15,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,60000,Planned harvest,
+pond_251e0d5b,West Godavari,2025-05-15,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_17e22e23,West Godavari,2025-05-15,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,40000,0,Planned harvest,
+pond_f1f0953d,West Godavari,2025-05-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,300.0,2268,2268.0,,,,False
+pond_d1de1045,Nellore,2025-05-14,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,830.0,,,5810,0,Planned harvest,
+pond_0c63298a,West Godavari,2025-05-12,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,39000,0,Planned harvest,
+pond_f86d5d94,West Godavari,2025-05-12,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,130000,0,Planned harvest,
+pond_8902ecd3,West Godavari,2025-05-12,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,58000,0,Planned harvest,
+pond_da3b5851,Nellore,2025-05-10,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2762,2762.0,,,,True
+pond_e78b9c9a,West Godavari,2025-05-07,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,24000,20000,Planned harvest,
+pond_f9218e7b,West Godavari,2025-05-07,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,2400.0,,,48000,0,Planned harvest,
+pond_dda2c111,Nellore,2025-05-06,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,5.0,22923,22923.0,,,,True
+pond_7472ede8,West Godavari,2025-05-06,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_f6d09111,West Godavari,2025-05-06,Harvest,Praveen,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",,,50.0,,,,0,Planned harvest,
+pond_cf53cb6f,Nellore,2025-05-04,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,150.0,2920,2920.0,,,,True
+pond_c295a799,West Godavari,2025-05-02,Partial harvest,Praveen,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",,,80.0,,,,400000,Planned harvest,
+pond_2e0e9d1a,West Godavari,2025-05-02,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,15000,10000,Planned harvest,
+pond_20c3d3aa,West Godavari,2025-05-02,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,60000,Planned harvest,
+pond_eb2903bd,West Godavari,2025-05-01,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,50000,0,Planned harvest,
+pond_ca25b296,West Godavari,2025-04-30,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,13000,7000,Planned harvest,
+pond_46bbdb3a,West Godavari,2025-04-30,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,34000,Planned harvest,
+pond_d7feb952,West Godavari,2025-04-30,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,40.0,9524,9524.0,,,,False
+pond_f6d09111,West Godavari,2025-04-30,Partial harvest,Praveen,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",,,40.0,,,,210000,Planned harvest,
+pond_02b8575a,West Godavari,2025-04-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,300.0,2227,2227.0,,,,False
+pond_fb9877ae,West Godavari,2025-04-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,200.0,1529,1529.0,,,,False
+pond_680c8104,West Godavari,2025-04-26,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,65000,0,Planned harvest,
+pond_439eae87,West Godavari,2025-04-26,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,64000,Planned harvest,
+pond_166e730f,West Godavari,2025-04-26,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,300.0,1534,1534.0,,,,False
+pond_9a0003fb,West Godavari,2025-04-25,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2957,2957.0,,,,False
+pond_8fd1554c,West Godavari,2025-04-25,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,310.0,,,9500,0,Planned harvest,
+pond_51789df8,West Godavari,2025-04-25,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,320.0,,,24000,0,Planned harvest,
+pond_5e81f369,West Godavari,2025-04-25,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,84000,0,Planned harvest,
+pond_02b8575a,West Godavari,2025-04-25,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,94000,0,Planned harvest,
+pond_c30c0534,Nellore,2025-04-24,Stocking,Chaitanya,Grow-out,Rohu (Labeo rohita),10,1000.0,100.0,2833,2833.0,,,,True
+pond_fb9877ae,West Godavari,2025-04-23,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,45000,0,Planned harvest,
+pond_2fd8194c,West Godavari,2025-04-22,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,96000,0,Planned harvest,
+pond_c7407a79,West Godavari,2025-04-21,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,55000,0,Planned harvest,
+pond_edb67ba0,Nellore,2025-04-20,Harvest,Chaitanya,Grow-out,Roopchand,,,960.0,,,2400,0,Planned harvest,
+pond_690fd7d6,West Godavari,2025-04-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,11852,11852.0,,,,False
+pond_bed02137,West Godavari,2025-04-20,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,0,Planned harvest,
+pond_27785ee9,West Godavari,2025-04-20,Harvest,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",,,50.0,,,,0,Planned harvest,
+pond_3d8cae54,West Godavari,2025-04-18,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,81000,0,Planned harvest,
+pond_41a4dead,West Godavari,2025-04-17,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,250.0,2180,2180.0,,,,False
+pond_aae69640,Nellore,2025-04-17,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,870.0,,,11300,0,Planned harvest,
+pond_da9e5287,Nellore,2025-04-16,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,753.0,,,1883,0,Planned harvest,
+pond_166e730f,West Godavari,2025-04-16,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,2000.0,,,105000,0,Planned harvest,
+pond_ba85724b,Nellore,2025-04-16,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,1737,1737.0,,,,True
+pond_f1f0953d,West Godavari,2025-04-15,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,84000,0,Planned harvest,
+pond_5557d8af,West Godavari,2025-04-15,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,45000,0,Planned harvest,
+pond_90dd090b,West Godavari,2025-04-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2963,2963.0,,,,False
+pond_690fd7d6,West Godavari,2025-04-15,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,,0,Planned harvest,
+pond_6a5ab9d0,West Godavari,2025-04-13,Stocking,Praveen,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,100.0,10.0,34483,34483.0,,,,False
+pond_2855b437,West Godavari,2025-04-13,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,30.0,7222,7222.0,,,,False
+pond_868241e3,West Godavari,2025-04-13,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,40.0,6000,6000.0,,,,False
+pond_0b972252,Nellore,2025-04-13,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,3026,3026.0,,,,True
+pond_a72a9ad7,West Godavari,2025-04-11,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,40.0,5263,5263.0,,,,False
+pond_07ed9225,Nellore,2025-04-11,Harvest,Chaitanya,Nursery,"Catla (Catla catla), Rohu (Labeo rohita)",,,50.0,,,1900,0,Planned harvest,
+pond_a2a9984f,Nellore,2025-04-11,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,666.0,,,8000,0,Planned harvest,
+pond_3ed934a6,West Godavari,2025-04-10,Harvest,Praveen,Nursery,Roopchand,,,100.0,,,,0,Planned harvest,
+pond_522cd38a,West Godavari,2025-04-10,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,,0,Planned harvest,
+pond_90dd090b,West Godavari,2025-04-10,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,,0,Planned harvest,
+pond_d81b6f9f,West Godavari,2025-04-09,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,150.0,10.0,10588,10588.0,,,,False
+pond_2ec8980d,Nellore,2025-04-09,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,150.0,2941,2451.0,,,,True
+pond_1dbb9f8d,Nellore,2025-04-09,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,900.0,,,2700,0,Planned harvest,
+pond_9a0003fb,West Godavari,2025-04-08,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,76000,0,Planned harvest,
+pond_aabd8703,Nellore,2025-04-07,Stocking,Chaitanya,Grow-out,Roopchand,10,1000.0,250.0,2875,2222.0,,,,True
+pond_f18f1d57,Nellore,2025-04-07,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,890.0,,,4900,0,Planned harvest,
+pond_b296eebf,West Godavari,2025-04-07,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,39000,64000,Planned harvest,
+pond_ee1be8cb,West Godavari,2025-04-05,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,120000,0,Planned harvest,
+pond_4fc9a5af,Nellore,2025-04-03,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,852.0,,,2130,0,Planned harvest,
+pond_1d648007,Nellore,2025-04-03,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,760.0,,,1558,0,Planned harvest,
+pond_f5213f43,West Godavari,2025-04-03,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,250.0,2609,2609.0,,,,False
+pond_2e1713ae,Nellore,2025-04-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,300.0,2745,2745.0,,,,True
+pond_aef38b14,Nellore,2025-04-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,3243,3243.0,,,,True
+pond_d7feb952,West Godavari,2025-03-31,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,0,Planned harvest,
+pond_0b61fd61,West Godavari,2025-03-31,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,6111,6111.0,,,,False
+pond_f9e817c6,West Godavari,2025-03-30,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,,0,Planned harvest,
+pond_d01750af,Nellore,2025-03-29,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,100.0,3070,3070.0,,,,True
+pond_0b61fd61,West Godavari,2025-03-29,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_4cef5872,Nellore,2025-03-28,Harvest,Chaitanya,Grow-out,Roopchand,,,975.0,,,7800,0,Planned harvest,
+pond_09f0cd92,Nellore,2025-03-27,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,3045,3045.0,,,,True
+pond_7fc56232,Nellore,2025-03-27,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,3241,3241.0,,,,True
+pond_7fd480e0,West Godavari,2025-03-26,Partial stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,550.0,3240,3240.0,,,,False
+pond_d2e83c32,West Godavari,2025-03-21,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,50.0,10.0,62500,62500.0,,,,False
+pond_b9aedd06,West Godavari,2025-03-20,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,20.0,21429,21429.0,,,,False
+pond_cf53cb6f,Nellore,2025-03-20,Harvest,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,900.0,,,9900,0,Planned harvest,
+pond_6fa8a2a5,West Godavari,2025-03-18,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,80.0,10.0,27778,27778.0,,,,False
+pond_41a4dead,West Godavari,2025-03-17,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,100000,0,Planned harvest,
+pond_b3126696,West Godavari,2025-03-16,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2536,2536.0,,,,False
+pond_89aabef8,West Godavari,2025-03-16,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,,0,Planned harvest,
+pond_da3b5851,Nellore,2025-03-15,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,640.0,,,3200,0,,
+pond_c8879b29,West Godavari,2025-03-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2684,2684.0,,,,False
+pond_e5db19e4,West Godavari,2025-03-14,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,100.0,10000,10000.0,,,,True
+pond_a1a3333d,West Godavari,2025-03-13,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,1710,1710.0,,,,False
+pond_a80e42b6,West Godavari,2025-03-13,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,230.0,,,7000,0,Planned harvest,
+pond_f5213f43,West Godavari,2025-03-12,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,46000,0,Planned harvest,
+pond_7c2f9913,West Godavari,2025-03-11,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,,0,Planned harvest,
+pond_518460bf,West Godavari,2025-03-11,Partial stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,100.0,2222,2222.0,,,,False
+pond_304a9d41,West Godavari,2025-03-10,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,50.0,10.0,62500,62500.0,,,,False
+pond_74ea5a99,West Godavari,2025-03-10,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,7692,7692.0,,,,False
+pond_dc98e449,West Godavari,2025-03-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2966,2966.0,,,,False
+pond_f569e116,Nellore,2025-03-08,Harvest,Chaitanya,Grow-out,Roopchand,,,984.0,,,6400,0,Planned harvest,
+pond_74ea5a99,West Godavari,2025-03-08,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,500.0,,,,0,Planned harvest,
+pond_c8879b29,West Godavari,2025-03-07,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1250.0,,,102000,0,Planned harvest,
+pond_b3126696,West Godavari,2025-03-07,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,62000,0,Planned harvest,
+pond_08867f11,West Godavari,2025-03-04,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,300.0,1791,1791.0,,,,False
+pond_f69b5a88,West Godavari,2025-03-03,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,45000,0,Planned harvest,
+pond_adeaf27b,West Godavari,2025-03-03,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,300.0,1655,1655.0,,,,False
+pond_95fa2b00,Nellore,2025-03-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,800.0,40.0,3472,3472.0,,,,True
+pond_299152dc,Nellore,2025-03-01,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,800.0,50.0,3333,3333.0,,,,True
+pond_bd0e0d33,West Godavari,2025-03-01,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,410.0,,,2500,42000,Planned harvest,
+pond_08867f11,West Godavari,2025-02-28,Harvest,Praveen,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",,,1400.0,,,99500,0,Planned harvest,
+pond_dc98e449,West Godavari,2025-02-28,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,51000,0,Planned harvest,
+pond_b7082dc1,West Godavari,2025-02-27,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,40.0,16500,16500.0,,,,True
+pond_e95651d9,West Godavari,2025-02-25,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,50.0,5.0,71429,71429.0,,,,False
+pond_917e0459,West Godavari,2025-02-25,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,1515,1515.0,,,,True
+pond_adeaf27b,West Godavari,2025-02-25,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,88000,0,Planned harvest,
+pond_c2458988,West Godavari,2025-02-24,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,30.0,6936,6936.0,,,,False
+pond_7ef7fef9,West Godavari,2025-02-22,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,8130,8130.0,,,,False
+pond_aae02d77,West Godavari,2025-02-22,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,500.0,150.0,5625,5625.0,,,,False
+pond_47f64c85,West Godavari,2025-02-21,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,5000,5000.0,,,,False
+pond_2ec8980d,Nellore,2025-02-20,Harvest,Chaitanya,Grow-out,Roopchand,,,941.0,,,11300,0,Planned harvest,
+pond_518460bf,West Godavari,2025-02-20,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,18000,20000,Planned harvest,
+pond_9252e874,West Godavari,2025-02-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,100.0,5435,5435.0,,,,False
+pond_5f9e292b,West Godavari,2025-02-20,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,200.0,2558,2558.0,,,,False
+pond_c2dd8e7c,West Godavari,2025-02-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,250.0,1818,1818.0,,,,True
+pond_60e4cad8,West Godavari,2025-02-14,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,6190,6190.0,,,,False
+pond_b36b9eee,West Godavari,2025-02-13,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,1667,1667.0,,,,False
+pond_d01750af,Nellore,2025-02-12,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,835.0,,,11700,0,Planned harvest,
+pond_dd9c12ef,West Godavari,2025-02-12,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,7000,0,Planned harvest,
+pond_e797c43a,West Godavari,2025-02-11,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,2556,2556.0,,,,False
+pond_e25b2cfc,West Godavari,2025-02-11,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,2363,2363.0,,,,False
+pond_dda2c111,Nellore,2025-02-10,Harvest,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,35.0,,,5350,0,Planned harvest,
+pond_a6578b7f,West Godavari,2025-02-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,2226,2226.0,,,,True
+pond_5f9e292b,West Godavari,2025-02-09,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,111000,0,Planned harvest,
+pond_2e1713ae,Nellore,2025-02-08,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1066.0,,,11200,0,Planned harvest,
+pond_a59c9ac7,West Godavari,2025-02-08,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,2130,2130.0,,,,True
+pond_984a8534,West Godavari,2025-02-08,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,24000,0,Planned harvest,
+pond_ef747ffa,West Godavari,2025-02-08,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,550.0,,,55000,0,Planned harvest,
+pond_6772b310,West Godavari,2025-02-07,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2444,2444.0,,,,False
+pond_f9218e7b,West Godavari,2025-02-06,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,35000,20000,Planned harvest,
+pond_9252e874,West Godavari,2025-02-06,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,30000,0,Planned harvest,
+pond_2e0e9d1a,West Godavari,2025-02-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,400.0,2787,2787.0,,,,False
+pond_ca25b296,West Godavari,2025-02-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,500.0,2561,2561.0,,,,False
+pond_8a8b9562,West Godavari,2025-02-04,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,14000,17000,Planned harvest,
+pond_c2458988,West Godavari,2025-02-03,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,35000,0,Planned harvest,
+pond_bd0f4fd7,Nellore,2025-02-03,Partial harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,300,1825,Planned harvest,
+pond_6772b310,West Godavari,2025-02-02,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,34000,0,Planned harvest,
+pond_f5ca6183,West Godavari,2025-02-02,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,10390,10390.0,,,,False
+pond_5f07dc7a,West Godavari,2025-02-01,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,7429,7429.0,,,,False
+pond_d5629838,West Godavari,2025-01-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,250.0,1672,1672.0,,,,True
+pond_8e6046b4,West Godavari,2025-01-29,Partial harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,55000,62000,Planned harvest,
+pond_c2dd8e7c,West Godavari,2025-01-29,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,130000,0,Planned harvest,
+pond_87edd7c9,West Godavari,2025-01-28,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,300.0,2304,2304.0,,,,True
+pond_ec1ee982,Nellore,2025-01-28,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,750.0,,,1500,0,Planned harvest,
+pond_f86d5d94,West Godavari,2025-01-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,350.0,2703,2703.0,,,,True
+pond_5773604b,Nellore,2025-01-26,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,696.0,,,3900,0,Planned harvest,
+pond_a5c0fc15,West Godavari,2025-01-26,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,450.0,,,30000,0,Planned harvest,
+pond_95fa2b00,Nellore,2025-01-25,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,588.0,,,1530,0,Planned harvest,
+pond_a0b42194,West Godavari,2025-01-24,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,350.0,2462,2462.0,,,,True
+pond_917e0459,West Godavari,2025-01-23,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,550.0,,,10000,0,Planned harvest,
+pond_d5629838,West Godavari,2025-01-23,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1700.0,,,93000,0,Planned harvest,
+pond_f1f0953d,West Godavari,2025-01-22,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,300.0,1995,1995.0,,,,False
+pond_ca25b296,West Godavari,2025-01-22,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,19000,0,Planned harvest,
+pond_09f0cd92,Nellore,2025-01-20,Partial harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,842.0,,,16000,0,Planned harvest,
+pond_0a3f9f76,West Godavari,2025-01-18,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,2286,2286.0,,,,False
+pond_7fc56232,Nellore,2025-01-18,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,928.0,,,13000,0,Planned harvest,
+pond_8fd1554c,West Godavari,2025-01-18,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,6452,6452.0,,,,False
+pond_f1f0953d,West Godavari,2025-01-15,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,96000,0,Planned harvest,
+pond_aef38b14,Nellore,2025-01-15,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,,,17000,0,Planned harvest,
+pond_f5ca6183,West Godavari,2025-01-15,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,15000,0,Planned harvest,
+pond_8a45828a,West Godavari,2025-01-11,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,,0,Planned harvest,
+pond_74f8f457,West Godavari,2025-01-10,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,20000,0,Planned harvest,
+pond_7472ede8,West Godavari,2025-01-10,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,10.0,5825,5825.0,,,,False
+pond_b7082dc1,West Godavari,2025-01-10,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,280.0,,,4000,0,Planned harvest,
+pond_8bf8a86a,West Godavari,2025-01-10,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,10949,10949.0,,,,True
+pond_715ebd01,West Godavari,2025-01-08,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,40.0,2632,2632.0,,,,False
+pond_5c0b4414,West Godavari,2025-01-08,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,40.0,2083,2083.0,,,,False
+pond_80e22f42,West Godavari,2025-01-06,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,255.0,2444,2444.0,,,,False
+pond_7eadb9bf,West Godavari,2025-01-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,2857,2857.0,,,,False
+pond_caca406c,West Godavari,2025-01-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1500.0,300.0,2597,2597.0,,,,False
+pond_05d9df8f,West Godavari,2025-01-03,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,8632,8632.0,,,,False
+pond_05f65197,West Godavari,2025-01-01,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,100.0,10.0,42857,42857.0,,,,False
+pond_17b6d1f2,West Godavari,2025-01-01,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,1297,1297.0,,,,False
+pond_74ea5a99,West Godavari,2025-01-01,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,500.0,150.0,4538,4538.0,,,,False
+pond_b3ee7ac9,West Godavari,2025-01-01,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,2128,2128.0,,,,False
+pond_d8d30ad3,West Godavari,2025-01-01,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2435,2435.0,,,,True
+pond_c1aade15,West Godavari,2024-12-31,Harvest,Praveen,Grow-out,"Roopchand, Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,8500,0,Planned harvest,
+pond_988c1692,West Godavari,2024-12-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,1669,1669.0,,,,False
+pond_bf58902e,Nellore,2024-12-28,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,900.0,100.0,3488,3198.0,,,,True
+pond_8bf8a86a,West Godavari,2024-12-27,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,460.0,,,14000,0,Planned harvest,
+pond_5c2246d5,West Godavari,2024-12-27,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1280.0,,,115000,0,Planned harvest,
+pond_a47e2d27,West Godavari,2024-12-27,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,335.0,,,33000,0,Planned harvest,
+pond_b6292420,West Godavari,2024-12-25,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,150.0,50.0,14286,14286.0,,,,False
+pond_b842374c,Nellore,2024-12-25,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,614.0,,,4300,0,Planned harvest,
+pond_2781ed8d,West Godavari,2024-12-23,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,150.0,50.0,11818,11818.0,,,,False
+pond_a32076ad,West Godavari,2024-12-23,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,150.0,20.0,13208,13208.0,,,,False
+pond_988c1692,West Godavari,2024-12-22,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,40000,0,Planned harvest,
+pond_348a1d24,West Godavari,2024-12-22,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,260.0,1853,1853.0,,,,False
+pond_80e22f42,West Godavari,2024-12-21,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,82000,0,Planned harvest,
+pond_583a1334,West Godavari,2024-12-20,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,1569,1569.0,,,,False
+pond_6526e587,West Godavari,2024-12-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,300.0,50.0,6667,6667.0,,,,False
+pond_c30c0534,Nellore,2024-12-20,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,838.0,,,3270,0,Planned harvest,
+pond_c5b49325,West Godavari,2024-12-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,6600,6600.0,,,,False
+pond_d8d30ad3,West Godavari,2024-12-20,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,100000,0,Planned harvest,
+pond_e2db7a6b,West Godavari,2024-12-20,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,45.0,11000,11000.0,,,,False
+pond_28c916f9,West Godavari,2024-12-18,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,900.0,,,45000,0,Planned harvest,
+pond_aae02d77,West Godavari,2024-12-18,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,355.0,,,15000,0,Planned harvest,
+pond_48b74e47,West Godavari,2024-12-18,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,61000,0,Planned harvest,
+pond_89aabef8,West Godavari,2024-12-17,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,68.0,5978,5978.0,,,,False
+pond_cc57546e,West Godavari,2024-12-16,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,125.0,2601,2601.0,,,,True
+pond_7c2f9913,West Godavari,2024-12-15,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,17451,17451.0,,,,False
+pond_348a1d24,West Godavari,2024-12-15,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,130000,0,Planned harvest,
+pond_cab7ba82,West Godavari,2024-12-15,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,60000,0,Planned harvest,
+pond_e6185c34,West Godavari,2024-12-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,245.0,2444,2444.0,,,,False
+pond_56e8a695,West Godavari,2024-12-12,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,200.0,1948,1948.0,,,,False
+pond_89aabef8,West Godavari,2024-12-12,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,318.0,,,14000,0,Planned harvest,
+pond_cc57546e,West Godavari,2024-12-12,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1550.0,,,63000,0,Planned harvest,
+pond_60dd3196,West Godavari,2024-12-10,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,15000,0,Planned harvest,
+pond_cc547e32,West Godavari,2024-12-10,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,30.0,48649,48649.0,,,,True
+pond_1dbb9f8d,Nellore,2024-12-08,Stocking,Chaitanya,Grow-out,Rohu (Labeo rohita),10,,300.0,1714,1714.0,,,,True
+pond_44865e41,West Godavari,2024-12-06,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,80.0,10.0,50000,50000.0,,,,False
+pond_cc547e32,West Godavari,2024-12-05,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,316.0,,,18000,0,Planned harvest,
+pond_05edabe9,West Godavari,2024-12-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,318.0,1755,1755.0,,,,False
+pond_811d5777,West Godavari,2024-12-04,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,5000,0,Planned harvest,
+pond_e5db19e4,West Godavari,2024-12-04,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,520.0,,,37000,0,Planned harvest,
+pond_69509b5b,West Godavari,2024-12-03,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,7500,7500.0,,,,False
+pond_7917cb8e,West Godavari,2024-12-03,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,1000,0,Planned harvest,
+pond_3a0067e4,West Godavari,2024-12-03,Stocking,Praveen,Rearing,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,20.0,69474,69474.0,,,,True
+pond_5557d8af,West Godavari,2024-12-03,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,206.0,2381,2381.0,,,,True
+pond_853f211a,West Godavari,2024-12-02,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1022.0,,,46000,0,Planned harvest,
+pond_b08d22b5,West Godavari,2024-12-02,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,3500,0,Planned harvest,
+pond_a4a1da02,West Godavari,2024-12-02,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,366.0,,,44000,0,Planned harvest,
+pond_7dded911,West Godavari,2024-12-01,Stocking,Praveen,Breed-out,Catla (Catla catla),0:10,,100.0,13333,13333.0,,,,True
+pond_07ed9225,Nellore,2024-11-30,Stocking,Chaitanya,Nursery,Rohu (Labeo rohita),10,,2.0,40984,40984.0,,,,False
+pond_863e7ed4,Nellore,2024-11-29,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,200.0,2966,2966.0,,,,True
+pond_5557d8af,West Godavari,2024-11-28,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1060.0,,,42000,0,Planned harvest,
+pond_bee2e7f5,West Godavari,2024-11-28,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,9191,9191.0,,,,True
+pond_9644548f,West Godavari,2024-11-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,150.0,2791,2791.0,,,,False
+pond_369dc183,West Godavari,2024-11-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2358,2358.0,,,,False
+pond_05edabe9,West Godavari,2024-11-26,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1600.0,,,65000,0,Planned harvest,
+pond_1d648007,Nellore,2024-11-26,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2329,2329.0,,,,True
+pond_c7407a79,West Godavari,2024-11-26,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,218.0,2542,2542.0,,,,True
+pond_0b18540f,West Godavari,2024-11-25,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,284.0,2194,2194.0,,,,True
+pond_a0b42194,West Godavari,2024-11-24,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,425.0,,,17000,0,Planned harvest,
+pond_319c1ff7,West Godavari,2024-11-20,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,200.0,1833,1833.0,,,,False
+pond_7ef7fef9,West Godavari,2024-11-20,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,2500,0,Planned harvest,
+pond_27785ee9,West Godavari,2024-11-20,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,133333,133333.0,,,,False
+pond_0b972252,Nellore,2024-11-20,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,970.0,,,63000,0,Planned harvest,
+pond_690fd7d6,West Godavari,2024-11-19,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,70.0,11111,11111.0,,,,False
+pond_90dd090b,West Godavari,2024-11-19,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,251.0,3055,3055.0,,,,False
+pond_11799705,West Godavari,2024-11-18,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,186.0,3057,3057.0,,,,True
+pond_1c1e7d4b,Nellore,2024-11-18,Stocking,Chaitanya,Grow-out,Roopchand,10,,300.0,3378,3378.0,,,,False
+pond_edb67ba0,Nellore,2024-11-18,Stocking,Chaitanya,Grow-out,Roopchand,10,,400.0,2941,2941.0,,,,False
+pond_f2e849c5,Nellore,2024-11-17,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,670.0,,,9500,0,Planned harvest,
+pond_8dd26bbf,West Godavari,2024-11-16,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,320.0,2182,2182.0,,,,True
+pond_d85b342c,West Godavari,2024-11-16,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,8270,8270.0,,,,True
+pond_17e22e23,West Godavari,2024-11-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,250.0,3155,3155.0,,,,False
+pond_09e8bfb8,West Godavari,2024-11-15,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,37037,37037.0,,,,True
+pond_369dc183,West Godavari,2024-11-14,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,60000,0,Planned harvest,
+pond_3a0067e4,West Godavari,2024-11-14,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,40.0,,,4000,0,Planned harvest,
+pond_c2458988,West Godavari,2024-11-14,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,8092,8092.0,,,,False
+pond_8fd1554c,West Godavari,2024-11-13,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1085.0,,,38000,0,Planned harvest,
+pond_e78b9c9a,West Godavari,2024-11-12,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,165.0,9195,9195.0,,,,True
+pond_caca406c,West Godavari,2024-11-12,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,50000,0,Planned harvest,
+pond_c2458988,West Godavari,2024-11-12,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,16000,0,Planned harvest,
+pond_49ea61c0,West Godavari,2024-11-12,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,207.0,2324,2324.0,,,,False
+pond_9719af6d,Nellore,2024-11-11,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,3000,3000.0,,,,True
+pond_7dded911,West Godavari,2024-11-11,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,140.0,,,2000,0,Planned harvest,
+pond_727e3097,West Godavari,2024-11-11,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,12791,12791.0,,,,True
+pond_7fd480e0,West Godavari,2024-11-11,Partial harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,360.0,,,20000,10000,Planned harvest,
+pond_251e0d5b,West Godavari,2024-11-10,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,350.0,50.0,7333,7333.0,,,,False
+pond_0b0963e5,West Godavari,2024-11-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2607,2607.0,,,,False
+pond_eb2903bd,West Godavari,2024-11-09,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,230.0,3327,3327.0,,,,False
+pond_aae69640,Nellore,2024-11-09,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,3044,3044.0,,,,True
+pond_d452b0a2,West Godavari,2024-11-09,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,230.0,,,16000,0,Planned harvest,
+pond_0b18540f,West Godavari,2024-11-09,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1290.0,,,42500,0,Planned harvest,
+pond_8902ecd3,West Godavari,2024-11-08,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,160.0,2409,2409.0,,,,False
+pond_ec1ee982,Nellore,2024-11-08,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Roopchand",5:5,,200.0,2667,2667.0,,,,False
+pond_01f1ab5c,West Godavari,2024-11-08,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,1000,0,Planned harvest,
+pond_4a880fc8,West Godavari,2024-11-07,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,170.0,2211,2211.0,,,,False
+pond_2e1713ae,Nellore,2024-11-07,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,2059,2059.0,,,,True
+pond_cf980f71,West Godavari,2024-11-06,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2823,2823.0,,,,False
+pond_5aaa5b01,West Godavari,2024-11-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,400.0,1737,1737.0,,,,False
+pond_eb2903bd,West Godavari,2024-11-05,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,30500,0,Planned harvest,
+pond_aabd8703,Nellore,2024-11-03,Harvest,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,760.0,,,7000,0,Planned harvest,
+pond_cc764bfd,West Godavari,2024-11-02,Harvest,Praveen,,Rohu (Labeo rohita),,,100.0,,,5000,0,Planned harvest,
+pond_49ea61c0,West Godavari,2024-11-01,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,65000,0,Planned harvest,
+pond_ac78f7f3,West Godavari,2024-10-30,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,264.0,2530,2530.0,,,,True
+pond_ac7bb683,West Godavari,2024-10-30,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,5814,5814.0,,,,True
+pond_a59c9ac7,West Godavari,2024-10-26,Harvest,Praveen,,"Rohu (Labeo rohita), Catla (Catla catla)",,,1238.0,,,160000,0,Planned harvest,
+pond_727e3097,West Godavari,2024-10-25,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,10500,0,Planned harvest,
+pond_ec1ee982,Nellore,2024-10-24,Harvest,Chaitanya,,Roopchand,,,900.0,,,1800,0,Planned harvest,
+pond_b296eebf,West Godavari,2024-10-22,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2494,2494.0,,,,False
+pond_c295a799,West Godavari,2024-10-22,Stocking,Praveen,Rearing,Rohu (Labeo rohita),10:0,,10.0,175438,175438.0,,,,True
+pond_a6578b7f,West Godavari,2024-10-21,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1143.0,,,80000,0,Planned harvest,
+pond_885057ef,West Godavari,2024-10-21,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,5500,0,Planned harvest,
+pond_87edd7c9,West Godavari,2024-10-20,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,60000,0,Planned harvest,
+pond_da3b5851,Nellore,2024-10-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,2762,2762.0,,,,True
+pond_0b61fd61,West Godavari,2024-10-18,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,250.0,50.0,7333,7333.0,,,,False
+pond_70614260,West Godavari,2024-10-18,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,30000,0,Planned harvest,
+pond_ac78f7f3,West Godavari,2024-10-16,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1250.0,,,50000,0,Planned harvest,
+pond_522cd38a,West Godavari,2024-10-15,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,5263,5263.0,,,,False
+pond_16becad9,West Godavari,2024-10-14,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,250.0,2430,2430.0,,,,False
+pond_46bbdb3a,West Godavari,2024-10-13,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,7327,7327.0,,,,False
+pond_518460bf,West Godavari,2024-10-11,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,110.0,1600,1600.0,,,,False
+pond_c01f770d,West Godavari,2024-10-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,220.0,2364,2364.0,,,,True
+pond_c295a799,West Godavari,2024-10-10,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,3000,0,Planned harvest,
+pond_f86d5d94,West Godavari,2024-10-09,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1270.0,,,140000,0,Planned harvest,
+pond_bdf8fe72,West Godavari,2024-10-08,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,7576,7576.0,,,,False
+pond_2e0e9d1a,West Godavari,2024-10-06,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,980.0,,,10500,0,Planned harvest,
+pond_c2dd8e7c,West Godavari,2024-10-05,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,200.0,2886,2886.0,,,,False
+pond_c7407a79,West Godavari,2024-10-03,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,65000,0,Planned harvest,
+pond_c01f770d,West Godavari,2024-10-02,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1370.0,,,55000,0,Planned harvest,
+pond_439eae87,West Godavari,2024-09-30,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,200.0,40.0,15000,15000.0,,,,False
+pond_d1de1045,Nellore,2024-09-28,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,3448,3448.0,,,,True
+pond_1c1e7d4b,Nellore,2024-09-28,Harvest,Chaitanya,,Roopchand,,,700.0,,,5300,0,Planned harvest,
+pond_edb67ba0,Nellore,2024-09-28,Harvest,Chaitanya,,Roopchand,,,800.0,,,2200,0,Planned harvest,
+pond_e2db7a6b,West Godavari,2024-09-28,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,310.0,,,10000,0,Planned harvest,
+pond_55356fc9,West Godavari,2024-09-27,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,260.0,2358,2358.0,,,,False
+pond_299152dc,Nellore,2024-09-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Grass Carp (Ctenopharyngodon idella)",,,750.0,,,2047,0,Planned harvest,
+pond_f6d09111,West Godavari,2024-09-25,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,,,,,,,False
+pond_1d648007,Nellore,2024-09-24,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,2040,0,Planned harvest,
+pond_55356fc9,West Godavari,2024-09-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,730.0,,,45000,0,Planned harvest,
+pond_d85b342c,West Godavari,2024-09-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,44000,0,Planned harvest,
+pond_d7feb952,West Godavari,2024-09-20,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,12222,12222.0,,,,False
+pond_bee2e7f5,West Godavari,2024-09-18,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,280.0,,,8500,0,Planned harvest,
+pond_ac7bb683,West Godavari,2024-09-17,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,40000,0,Planned harvest,
+pond_89aabef8,West Godavari,2024-09-15,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,114.0,5978,5978.0,,,,False
+pond_ef747ffa,West Godavari,2024-09-05,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2105,2105.0,,,,True
+pond_195e5b24,West Godavari,2024-09-03,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,160.0,2128,2128.0,,,,False
+pond_6f30fefd,West Godavari,2024-08-28,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,58000,0,Planned harvest,
+pond_dda2c111,Nellore,2024-08-28,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,5.0,42980,42980.0,,,,True
+pond_166e730f,West Godavari,2024-08-26,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,2000.0,250.0,1425,1425.0,,,,False
+pond_a6d694f5,West Godavari,2024-08-26,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,98000,0,Planned harvest,
+pond_f569e116,Nellore,2024-08-25,Stocking,Chaitanya,Grow-out,"Roopchand, Catla (Catla catla)",9.5:0.5,,400.0,2321,2321.0,,,,True
+pond_fc8ef4d2,West Godavari,2024-08-25,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,47000,0,Planned harvest,
+pond_984a8534,West Godavari,2024-08-24,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,5278,5278.0,,,,False
+pond_dd9c12ef,West Godavari,2024-08-24,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,6364,6364.0,,,,False
+pond_373669d6,Nellore,2024-08-23,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,909,909.0,,,,True
+pond_89aabef8,West Godavari,2024-08-23,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,364.0,,,16000,0,Planned harvest,
+pond_b3126696,West Godavari,2024-08-23,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,364.0,2721,2721.0,,,,False
+pond_fb9877ae,West Godavari,2024-08-21,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,1765,1765.0,,,,False
+pond_7d39a2cf,West Godavari,2024-08-21,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,20400,0,Planned harvest,
+pond_a3c9d163,Nellore,2024-08-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,80.0,3017,3017.0,,,,True
+pond_1bf4ea64,Nellore,2024-08-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,80.0,3521,3521.0,,,,True
+pond_10b0b2f6,Nellore,2024-08-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,80.0,3356,3356.0,,,,True
+pond_d252b4e3,Nellore,2024-08-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,80.0,3788,3788.0,,,,True
+pond_d01750af,Nellore,2024-08-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,3070,3070.0,,,,True
+pond_f5ca6183,West Godavari,2024-08-19,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,9740,9740.0,,,,False
+pond_bdf8fe72,West Godavari,2024-08-19,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,4500,0,Planned harvest,
+pond_2e1713ae,Nellore,2024-08-18,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,,,16200,0,Planned harvest,
+pond_b3126696,West Godavari,2024-08-16,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1600.0,,,70000,0,Planned harvest,
+pond_2fd8194c,West Godavari,2024-08-15,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1000.0,200.0,2133,2133.0,,,,False
+pond_b7082dc1,West Godavari,2024-08-15,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,17000,17000.0,,,,False
+pond_9a0003fb,West Godavari,2024-08-13,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,312.0,2704,2957.0,,,,False
+pond_f4e94600,West Godavari,2024-08-11,Harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,500.0,,,79000,0,Planned harvest,
+pond_c8879b29,West Godavari,2024-08-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.2:0.8,,308.0,2996,2996.0,,,,False
+pond_b7082dc1,West Godavari,2024-08-09,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,230.0,,,4000,0,Planned harvest,
+pond_09e8bfb8,West Godavari,2024-08-08,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,9000,0,Planned harvest,
+pond_bed02137,West Godavari,2024-08-05,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,8889,8889.0,,,,False
+pond_e78b9c9a,West Godavari,2024-08-05,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,24000,0,Planned harvest,
+pond_19e0e052,Nellore,2024-08-04,Harvest,Chaitanya,,Roopchand,,,1100.0,,,27000,0,Planned harvest,
+pond_3ed934a6,West Godavari,2024-08-03,Stocking,Praveen,Nursery,Roopchand,10:0,,5.0,58824,58824.0,,,,False
+pond_a2a9984f,Nellore,2024-08-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita), Grass Carp (Ctenopharyngodon idella)",9.5:0.3:0.2,,100.0,3399,3399.0,,,,True
+pond_ca25b296,West Godavari,2024-08-02,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,600.0,1921,1921.0,,,,False
+pond_2e0e9d1a,West Godavari,2024-08-02,Partial harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,9000,10000,Planned harvest,
+pond_6118ad90,West Godavari,2024-07-29,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,52000,0,Planned harvest,
+pond_41a4dead,West Godavari,2024-07-29,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.9:0.1,,,2493,2493.0,,,,False
+pond_7dded911,West Godavari,2024-07-28,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.1:0.9,,40.0,11733,11733.0,,,,False
+pond_283dc502,West Godavari,2024-07-28,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,,2622,2622.0,,,,False
+pond_3ed934a6,West Godavari,2024-07-27,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,22000,0,Planned harvest,
+pond_8dd26bbf,West Godavari,2024-07-27,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1700.0,,,112200,0,Planned harvest,
+pond_885057ef,West Godavari,2024-07-26,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,2529,2529.0,,,,False
+pond_a6578b7f,West Godavari,2024-07-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9.2:0.8,,,2226,2226.0,,,,False
+pond_cc764bfd,West Godavari,2024-07-26,Partial harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,60.0,,,6000,50000,Planned harvest,
+pond_20c3d3aa,West Godavari,2024-07-25,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,60.0,12469,12469.0,,,,False
+pond_44f24b9a,West Godavari,2024-07-25,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",7:2:1,,,4222,4222.0,,,,False
+pond_e71ae278,West Godavari,2024-07-25,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,75000,0,Planned harvest,
+pond_811d5777,West Godavari,2024-07-24,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,6000,6000.0,,,,False
+pond_70614260,West Godavari,2024-07-23,Stocking,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,4304,4304.0,,,,False
+pond_8a8b9562,West Godavari,2024-07-22,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita), Whiteleg Shrimp (Litopenaeus vannamei)",9:1,,330.0,2708,2708.0,,,,False
+pond_20c3d3aa,West Godavari,2024-07-22,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,12000,0,Planned harvest,
+pond_eb2903bd,West Godavari,2024-07-22,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,1996,1996.0,,,,False
+pond_4e07e1a3,West Godavari,2024-07-21,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,,2516,2516.0,,,,False
+pond_b11d4126,West Godavari,2024-07-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,6000,0,Planned harvest,
+pond_863e7ed4,Nellore,2024-07-20,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,,,6375,0,Planned harvest,
+pond_5f9e292b,West Godavari,2024-07-18,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,200.0,2729,2729.0,,,,False
+pond_21320075,West Godavari,2024-07-16,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,260.0,1554,1554.0,,,,False
+pond_9a0003fb,West Godavari,2024-07-16,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1250.0,,,80000,0,Planned harvest,
+pond_60dd3196,West Godavari,2024-07-15,Stocking,Praveen,,Rohu (Labeo rohita),10,,,13699,13699.0,,,,False
+pond_7dded911,West Godavari,2024-07-14,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,380.0,,,4000,0,Planned harvest,
+pond_32ca982f,West Godavari,2024-07-13,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,9000,0,Planned harvest,
+pond_c8879b29,West Godavari,2024-07-12,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,115000,0,Planned harvest,
+pond_c1aade15,West Godavari,2024-07-11,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",9:0.6:0.3,,,3333,3333.0,,,,False
+pond_35f0d376,West Godavari,2024-07-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,1200.0,200.0,2182,2182.0,,,,False
+pond_7ef7fef9,West Godavari,2024-07-10,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,8130,8130.0,,,,False
+pond_f9218e7b,West Godavari,2024-07-10,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,360.0,2486,2486.0,,,,False
+pond_08867f11,West Godavari,2024-07-08,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,1651,1651.0,,,,False
+pond_5f9e292b,West Godavari,2024-07-05,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1450.0,,,126000,0,Planned harvest,
+pond_ca25b296,West Godavari,2024-07-05,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1050.0,,,23000,0,Planned harvest,
+pond_dc98e449,West Godavari,2024-07-04,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,350.0,3644,3644.0,,,,False
+pond_f9218e7b,West Godavari,2024-07-03,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1900.0,,,50000,0,Planned harvest,
+pond_da9e5287,Nellore,2024-07-02,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,3333,2778.0,,,,True
+pond_4cef5872,Nellore,2024-07-01,Stocking,Chaitanya,Grow-out,Roopchand,10,,150.0,2817,2817.0,,,,False
+pond_c295a799,West Godavari,2024-07-01,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2667,2667.0,,,,False
+pond_2ec8980d,Nellore,2024-06-28,Stocking,Chaitanya,Grow-out,Roopchand,10,,300.0,2941,2941.0,,,,False
+pond_a434fd56,West Godavari,2024-06-28,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,10.0,71429,71429.0,,,,True
+pond_c295a799,West Godavari,2024-06-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,80.0,,,8800,0,Planned harvest,
+pond_aef38b14,Nellore,2024-06-23,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9.5:0.5,,100.0,3784,3604.0,,,,True
+pond_bf58902e,Nellore,2024-06-23,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,,,10200,0,Planned harvest,
+pond_dda2c111,Nellore,2024-06-22,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,50.0,,,4750,0,Planned harvest,
+pond_bd0e0d33,West Godavari,2024-06-21,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,11650,11650.0,,,,False
+pond_917e0459,West Godavari,2024-06-21,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,1364,1364.0,,,,False
+pond_dc98e449,West Godavari,2024-06-21,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,50000,0,Planned harvest,
+pond_8a8b9562,West Godavari,2024-06-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,30000,0,Planned harvest,
+pond_ddf602a6,West Godavari,2024-06-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,600.0,,,32000,0,Planned harvest,
+pond_4fc9a5af,Nellore,2024-06-20,Stocking,Chaitanya,Grow-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,80.0,3140,2907.0,,,,True
+pond_f18f1d57,Nellore,2024-06-20,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,350.0,2631,2631.0,,,,True
+pond_70614260,West Godavari,2024-06-19,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,8000,0,Planned harvest,
+pond_d85b342c,West Godavari,2024-06-19,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,11450,11450.0,,,,False
+pond_aae02d77,West Godavari,2024-06-18,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,5375,5375.0,,,,True
+pond_eb2903bd,West Godavari,2024-06-17,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,42000,0,Planned harvest,
+pond_891bf2fe,Nellore,2024-06-16,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,900.0,,,2700,0,Planned harvest,
+pond_960111d3,West Godavari,2024-06-15,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,55000,0,Planned harvest,
+pond_02b8575a,West Godavari,2024-06-13,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.1:0.9,,218.0,2494,2494.0,,,,False
+pond_ec1ee982,Nellore,2024-06-11,Stocking,Chaitanya,Grow-out,Roopchand,10,,400.0,2667,2667.0,,,,False
+pond_74f8f457,West Godavari,2024-06-10,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,9500,18000,Planned harvest,
+pond_bd0e0d33,West Godavari,2024-06-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1800.0,,,21000,0,Planned harvest,
+pond_9719af6d,Nellore,2024-06-08,Harvest,Chaitanya,,Roopchand,,,983.0,,,60000,0,Planned harvest,
+pond_aae69640,Nellore,2024-06-08,Harvest,Chaitanya,,Roopchand,,,928.0,,,13000,0,Planned harvest,
+pond_d01750af,Nellore,2024-06-06,Harvest,Chaitanya,,Roopchand,,,733.0,,,11000,0,Planned harvest,
+pond_1d249330,Nellore,2024-06-05,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,40.0,,,3800,0,Planned harvest,
+pond_d1de1045,Nellore,2024-06-05,Harvest,Chaitanya,,Roopchand,,,971.0,,,3400,0,Planned harvest,
+pond_c7407a79,West Godavari,2024-06-04,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,16000,60000,Planned harvest,
+pond_a2125373,West Godavari,2024-06-03,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,55000,0,Planned harvest,
+pond_2ec8980d,Nellore,2024-06-02,Harvest,Chaitanya,,Roopchand,,,783.0,,,4700,0,Planned harvest,
+pond_bd0f4fd7,Nellore,2024-06-01,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita), Grass Carp (Ctenopharyngodon idella)",9:0.5:0.5,,50.0,4286,3143.0,,,,True
+pond_11799705,West Godavari,2024-05-29,Harvest,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,1100.0,,,40000,0,Planned harvest,
+pond_a59c9ac7,West Godavari,2024-05-29,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9.2:0.8,,,2915,2915.0,,,,False
+pond_9af26ee3,Nellore,2024-05-29,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,4800,0,Planned harvest,
+pond_da9e5287,Nellore,2024-05-28,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,933.0,,,2800,0,Planned harvest,
+pond_5e81f369,West Godavari,2024-05-27,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2667,2667.0,,,,False
+pond_917e0459,West Godavari,2024-05-26,Harvest,Chaitanya,,"Rohu (Labeo rohita), Catla (Catla catla)",,,1500.0,,,52000,0,Planned harvest,
+pond_f5213f43,West Godavari,2024-05-25,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,250.0,3304,3304.0,,,,False
+pond_d252b4e3,Nellore,2024-05-25,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,920.0,,,2300,0,Planned harvest,
+pond_89aabef8,West Godavari,2024-05-25,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,200.0,5978,5978.0,,,,False
+pond_680c8104,West Godavari,2024-05-25,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,16000,70000,Planned harvest,
+pond_6772b310,West Godavari,2024-05-24,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,,2744,2744.0,,,,False
+pond_4389488f,West Godavari,2024-05-20,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,900.0,,,90000,0,Planned harvest,
+pond_05edabe9,West Godavari,2024-05-20,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2181,2181.0,,,,False
+pond_1c1e7d4b,Nellore,2024-05-18,Stocking,Chaitanya,Grow-out,Roopchand,10,,100.0,4054,3378.0,,,,False
+pond_edb67ba0,Nellore,2024-05-18,Stocking,Chaitanya,Grow-out,Roopchand,10,,250.0,3529,3176.0,,,,True
+pond_ec1ee982,Nellore,2024-05-18,Harvest,Chaitanya,,Roopchand,,,766.0,,,2300,0,Planned harvest,
+pond_369dc183,West Godavari,2024-05-15,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2358,2358.0,,,,False
+pond_5e81f369,West Godavari,2024-05-15,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1800.0,,,100000,0,Planned harvest,
+pond_adeaf27b,West Godavari,2024-05-12,Stocking,Praveen,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9.3:0.7,,260.0,2000,2000.0,,,,False
+pond_d5629838,West Godavari,2024-05-12,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.2:0.8,,,1899,1899.0,,,,False
+pond_1bf4ea64,Nellore,2024-05-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,780.0,,,3900,0,Planned harvest,
+pond_89aabef8,West Godavari,2024-05-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,20000,0,Planned harvest,
+pond_a80e42b6,West Godavari,2024-05-07,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,6865,6865.0,,,,False
+pond_8bf8a86a,West Godavari,2024-05-07,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,10949,10949.0,,,,False
+pond_5557d8af,West Godavari,2024-05-01,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,,2381,2381.0,,,,False
+pond_aef38b14,Nellore,2024-05-01,Harvest,Chaitanya,,Roopchand,,,954.0,,,10500,0,Planned harvest,
+pond_d1de1045,Nellore,2024-04-30,Partial harvest,Chaitanya,,Roopchand,,,1000.0,,,4000,3500,Planned harvest,
+pond_19e0e052,Nellore,2024-04-28,Partial harvest,Chaitanya,,Roopchand,,,1000.0,,,35000,25000,Planned harvest,
+pond_4cef5872,Nellore,2024-04-28,Harvest,Chaitanya,,Roopchand,,,980.0,,,9800,0,Planned harvest,
+pond_01f1ab5c,West Godavari,2024-04-20,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,7017,7017.0,,,,False
+pond_edb67ba0,Nellore,2024-04-20,Harvest,Chaitanya,,Roopchand,,,933.0,,,2800,0,Planned harvest,
+pond_1c1e7d4b,Nellore,2024-04-18,Harvest,Chaitanya,,Roopchand,,,888.0,,,8000,0,Planned harvest,
+pond_a5c0fc15,West Godavari,2024-04-16,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,7383.0,,,,False
+pond_f69b5a88,West Godavari,2024-04-16,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,3240.0,,,,False
+pond_3d8cae54,West Godavari,2024-04-16,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,2833.0,,,,False
+pond_5a0db1d6,West Godavari,2024-04-16,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,26000,0,Planned harvest,
+pond_7917cb8e,West Godavari,2024-04-15,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,3125,3125.0,,,,False
+pond_a3c9d163,Nellore,2024-04-12,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,946.0,,,7100,0,Planned harvest,
+pond_f1f0953d,West Godavari,2024-04-10,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,350.0,1995,1995.0,,,,False
+pond_10b0b2f6,Nellore,2024-04-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,880.0,,,4400,0,Planned harvest,
+pond_cf53cb6f,Nellore,2024-04-06,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,80.0,2683,2683.0,,,,True
+pond_a2a9984f,Nellore,2024-04-05,Harvest,Chaitanya,,Roopchand,,,958.0,,,11500,0,Planned harvest,
+pond_4afa4e4f,West Godavari,2024-04-05,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,100.0,,,3000,70000,Planned harvest,
+pond_680c8104,West Godavari,2024-04-05,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,2677,2677.0,,,,False
+pond_9252e874,West Godavari,2024-04-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2174,2174.0,,,,False
+pond_f2e849c5,Nellore,2024-04-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3000,3000.0,,,,False
+pond_09e8bfb8,West Godavari,2024-04-03,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,150.0,,,5550,53000,,
+pond_e78b9c9a,West Godavari,2024-04-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,9195,9195.0,,,,False
+pond_0c63298a,West Godavari,2024-04-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,1556,1556.0,,,,False
+pond_91c4302d,Nellore,2024-04-01,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,796.0,,,19900,0,Planned harvest,
+pond_aabd8703,Nellore,2024-03-28,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,2875,2875.0,,,,True
+pond_0efe30b0,West Godavari,2024-03-28,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,7000,0,,
+pond_7d39a2cf,West Godavari,2024-03-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,10000.0,,,,False
+pond_32ca982f,West Godavari,2024-03-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,29851.0,,,,False
+pond_09b2c644,West Godavari,2024-03-26,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,128000,0,Planned harvest,
+pond_0b972252,Nellore,2024-03-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9.5:0.5,,200.0,3024,3024.0,,,,True
+pond_8e6046b4,West Godavari,2024-03-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2217,2217.0,,,,False
+pond_bbf2cb2b,West Godavari,2024-03-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,8750,0,Planned harvest,
+pond_8fd1554c,West Godavari,2024-03-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,7447,7447.0,,,,False
+pond_254a57a2,West Godavari,2024-03-24,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,13500,0,Planned harvest,
+pond_727e3097,West Godavari,2024-03-24,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,10465,10465.0,,,,False
+pond_f4e94600,West Godavari,2024-03-23,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,17500,158000,Planned harvest,
+pond_6f30fefd,West Godavari,2024-03-23,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,3608,3608.0,,,,False
+pond_a434fd56,West Godavari,2024-03-23,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,12500,0,,
+pond_80e22f42,West Godavari,2024-03-21,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2037,2037.0,,,,False
+pond_e2db7a6b,West Godavari,2024-03-21,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,11667,11667.0,,,,False
+pond_4302964d,West Godavari,2024-03-21,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,8000,0,,
+pond_863e7ed4,Nellore,2024-03-20,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,3125,3125.0,,,,True
+pond_680c8104,West Godavari,2024-03-18,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,330.0,,,9900,80000,Planned harvest,
+pond_bf58902e,Nellore,2024-03-18,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,3529,3529.0,,,,True
+pond_48b74e47,West Godavari,2024-03-18,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2723,2723.0,,,,False
+pond_0b18540f,West Godavari,2024-03-17,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,375.0,2432,2432.0,,,,False
+pond_01f1ab5c,West Godavari,2024-03-16,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,250.0,,,6250,0,Planned harvest,
+pond_d8d30ad3,West Godavari,2024-03-15,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.2:0.8,,,2452,2452.0,,,,False
+pond_74f8f457,West Godavari,2024-03-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,6392.0,,,,False
+pond_09f0cd92,Nellore,2024-03-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,3064,3064.0,,,,True
+pond_7fc56232,Nellore,2024-03-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,3256,3256.0,,,,True
+pond_2e0e9d1a,West Godavari,2024-03-14,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,200.0,2787,2787.0,,,,False
+pond_1d648007,Nellore,2024-03-13,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Grass Carp (Ctenopharyngodon idella)",9:0.5:0.5,,50.0,2778,2778.0,,,,True
+pond_f569e116,Nellore,2024-03-13,Harvest,Chaitanya,,Roopchand,,,944.0,,,8500,0,Planned harvest,
+pond_7e4b5572,Nellore,2024-03-11,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,3200,0,Planned harvest,
+pond_ee1be8cb,West Godavari,2024-03-10,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2189,2189.0,,,,False
+pond_0b18540f,West Godavari,2024-03-09,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1400.0,,,35000,0,Planned harvest,
+pond_8fd1554c,West Godavari,2024-03-09,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,500.0,,,45000,0,Planned harvest,
+pond_95fa2b00,Nellore,2024-03-09,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3714,3714.0,,,,True
+pond_8a8b9562,West Godavari,2024-03-06,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2707,2707.0,,,,False
+pond_bee2e7f5,West Godavari,2024-03-06,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,11029.0,,,,False
+pond_fc8ef4d2,West Godavari,2024-03-06,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2666,2666.0,,,,False
+pond_2e0e9d1a,West Godavari,2024-03-05,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1360.0,,,30000,0,Planned harvest,
+pond_299152dc,Nellore,2024-03-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Grass Carp (Ctenopharyngodon idella)",9:0.8:0.2,,100.0,3786,3786.0,,,,False
+pond_7e1ace3d,West Godavari,2024-03-02,Harvest,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",,,300.0,,,15000,0,Planned harvest,
+pond_8e2bb040,West Godavari,2024-03-02,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,37000,0,Planned harvest,
+pond_28c916f9,West Godavari,2024-03-01,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,2199.0,,,,False
+pond_e78b9c9a,West Godavari,2024-03-01,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,400.0,,,14000,43000,Planned harvest,
+pond_0c63298a,West Godavari,2024-03-01,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1780.0,,,125000,0,Planned harvest,
+pond_727e3097,West Godavari,2024-02-29,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,750.0,,,13000,0,Planned harvest,
+pond_2e1713ae,Nellore,2024-02-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,3726,3726.0,,,,True
+pond_f86d5d94,West Godavari,2024-02-24,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2703,2703.0,,,,False
+pond_988c1692,West Godavari,2024-02-20,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,1669,1669.0,,,,False
+pond_da579dd5,Nellore,2024-02-20,Harvest,Chaitanya,,Roopchand,,,1100.0,,,5000,0,Planned harvest,
+pond_373669d6,Nellore,2024-02-20,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1180.0,,,1300,0,Planned harvest,
+pond_1d648007,Nellore,2024-02-19,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,633.0,,,1900,0,Planned harvest,
+pond_b7082dc1,West Godavari,2024-02-19,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,18000,18000.0,,,,False
+pond_51789df8,West Godavari,2024-02-19,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,10.0,14911,14911.0,,,,False
+pond_863e7ed4,Nellore,2024-02-18,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,722.0,,,6500,0,Planned harvest,
+pond_da3b5851,Nellore,2024-02-18,Harvest,Chaitanya,,Roopchand,,,1000.0,,,5000,0,Planned harvest,
+pond_aabd8703,Nellore,2024-02-18,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,800.0,,,4800,0,Planned harvest,
+pond_70614260,West Godavari,2024-02-17,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,2222,2222.0,,,,False
+pond_299152dc,Nellore,2024-02-16,Harvest,Chaitanya,,Roopchand,,,766.0,,,2300,0,Planned harvest,
+pond_eb2903bd,West Godavari,2024-02-16,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,360.0,1996,1996.0,,,,False
+pond_20c3d3aa,West Godavari,2024-02-16,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,360.0,,,10800,50000,Planned harvest,
+pond_ba85724b,Nellore,2024-02-15,Harvest,Chaitanya,,Roopchand,,,1100.0,,,5500,0,Planned harvest,
+pond_1dbb9f8d,Nellore,2024-02-15,Harvest,Chaitanya,,Roopchand,,,1000.0,,,5000,0,Planned harvest,
+pond_9719af6d,Nellore,2024-02-14,Partial harvest,Chaitanya,,Roopchand,,,1000.0,,,35000,61000,Planned harvest,
+pond_ee1be8cb,West Godavari,2024-02-13,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,160000,0,Planned harvest,
+pond_c30c0534,Nellore,2024-02-12,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,30.0,2600,2600.0,,,,True
+pond_4389488f,West Godavari,2024-02-12,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,30.0,2545,2545.0,,,,False
+pond_70614260,West Godavari,2024-02-11,Partial harvest,Chaitanya,,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,,,22500,30000,,
+pond_f1f0953d,West Godavari,2024-02-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,140000,0,Planned harvest,
+pond_aef38b14,Nellore,2024-02-10,Partial harvest,Chaitanya,,Roopchand,,,1000.0,,,10000,11000,Planned harvest,
+pond_5773604b,Nellore,2024-02-08,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,3500,3500.0,,,,True
+pond_ac7bb683,West Godavari,2024-02-06,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,5814,5814.0,,,,False
+pond_eb2903bd,West Godavari,2024-02-05,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,52000,0,Planned harvest,
+pond_dda2c111,Nellore,2024-02-02,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,15.0,28571,28571.0,,,,True
+pond_89aabef8,West Godavari,2024-02-02,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,85.0,7473,7473.0,,,,False
+pond_a6d694f5,West Godavari,2024-02-01,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,60.0,6767,6767.0,,,,False
+pond_cc547e32,West Godavari,2024-01-29,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,15135,15135.0,,,,False
+pond_4302964d,West Godavari,2024-01-28,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,36364,36364.0,,,,False
+pond_4fc9a5af,Nellore,2024-01-27,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,685.0,,,1850,0,Planned harvest,
+pond_90a9bb25,West Godavari,2024-01-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,220.0,,,3000,0,Planned harvest,
+pond_f41bd81d,West Godavari,2024-01-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,24000,0,Planned harvest,
+pond_51789df8,West Godavari,2024-01-26,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,200.0,,,15200,0,Planned harvest,
+pond_c7407a79,West Godavari,2024-01-26,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,200.0,3512,3512.0,,,,False
+pond_1d249330,Nellore,2024-01-24,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,5.0,90910,90910.0,,,,True
+pond_f18f1d57,Nellore,2024-01-23,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,550.0,,,3300,0,,
+pond_87edd7c9,West Godavari,2024-01-22,Partial harvest,Praveen,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",,,350.0,,,28000,40000,Planned harvest,
+pond_c7407a79,West Godavari,2024-01-22,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,74000,0,Planned harvest,
+pond_b3126696,West Godavari,2024-01-22,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,2715,2715.0,,,,False
+pond_89aabef8,West Godavari,2024-01-22,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,150.0,,,6585,0,Planned harvest,
+pond_09f0cd92,Nellore,2024-01-20,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,920.0,,,23000,0,Planned harvest,
+pond_bf58902e,Nellore,2024-01-20,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,750.0,,,9000,0,Planned harvest,
+pond_33221a45,West Godavari,2024-01-20,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1300.0,,,65000,0,Planned harvest,
+pond_49ea61c0,West Godavari,2024-01-18,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,,2303,2303.0,,,,False
+pond_5c2246d5,West Godavari,2024-01-18,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2647,2647.0,,,,False
+pond_a47e2d27,West Godavari,2024-01-18,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,6250,6250.0,,,,False
+pond_7fc56232,Nellore,2024-01-18,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,937.0,,,15000,0,Planned harvest,
+pond_348a1d24,West Godavari,2024-01-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2180,2180.0,,,,False
+pond_5f9e292b,West Godavari,2024-01-14,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,350.0,2968,2968.0,,,,False
+pond_a6d694f5,West Godavari,2024-01-14,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,220.0,,,22000,0,Planned harvest,
+pond_a0b42194,West Godavari,2024-01-12,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,3077,3077.0,,,,False
+pond_e5db19e4,West Godavari,2024-01-09,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,10000,10000.0,,,,False
+pond_07ed9225,Nellore,2024-01-05,Harvest,Chaitanya,,Catla (Catla catla),,,1000.0,,,4000,0,Planned harvest,
+pond_5f9e292b,West Godavari,2024-01-05,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1600.0,,,162000,0,Planned harvest,
+pond_2e1713ae,Nellore,2024-01-03,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,722.0,,,13000,0,Planned harvest,
+pond_b3126696,West Godavari,2024-01-02,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1500.0,,,70000,0,Planned harvest,
+pond_ca25b296,West Godavari,2024-01-02,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2561,2561.0,,,,False
+pond_f9e817c6,West Godavari,2023-12-30,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,25.0,9090,9090.0,,,,False
+pond_9a0003fb,West Godavari,2023-12-28,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,3211,3211.0,,,,False
+pond_d01750af,Nellore,2023-12-25,Stocking,Chaitanya,,Roopchand,10,,40.0,3261,3261.0,,,,False
+pond_c01f770d,West Godavari,2023-12-23,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,,2394,2394.0,,,,False
+pond_cc57546e,West Godavari,2023-12-23,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",9.4:0.6,,,2736,2736.0,,,,False
+pond_c2428871,West Godavari,2023-12-23,Harvest,Chaitanya,,Roopchand,10,,500.0,,,30000,0,Planned harvest,
+pond_ca25b296,West Godavari,2023-12-23,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,1000.0,,,22000,0,Planned harvest,
+pond_853f211a,West Godavari,2023-12-22,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,,3333.0,,,,False
+pond_9a0003fb,West Godavari,2023-12-22,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,1220.0,,,107000,0,Planned harvest,
+pond_b08d22b5,West Godavari,2023-12-21,Stocking,Chaitanya,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,4706,4706.0,,,,False
+pond_7dded911,West Godavari,2023-12-21,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,10667,10667.0,,,,False
+pond_95fa2b00,Nellore,2023-12-21,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,847.0,,,1950,0,Planned harvest,
+pond_aae69640,Nellore,2023-12-20,Stocking,Chaitanya,,Roopchand,10,,50.0,3256,3256.0,,,,False
+pond_a4a1da02,West Godavari,2023-12-20,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,14765,14765.0,,,,False
+pond_cf53cb6f,Nellore,2023-12-18,Harvest,Chaitanya,,"Roopchand, Catla (Catla catla), Rohu (Labeo rohita)",9:1,,933.0,,,14000,0,Planned harvest,
+pond_b842374c,Nellore,2023-12-14,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,25.0,3043,3043.0,,,,True
+pond_0efe30b0,West Godavari,2023-12-13,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,4762,4762.0,,,,False
+pond_d01750af,Nellore,2023-12-11,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,775.0,,,12400,0,Planned harvest,
+pond_f2e849c5,Nellore,2023-12-11,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,794.0,,,14300,0,Planned harvest,
+pond_0b972252,Nellore,2023-12-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1060.0,,,70000,0,Planned harvest,
+pond_32a4efa1,West Godavari,2023-12-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,350.0,,,18550,0,Planned harvest,
+pond_dda2c111,Nellore,2023-12-06,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",8:2,,962.0,,,13000,0,Planned harvest,
+pond_6118ad90,West Godavari,2023-12-04,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,5804,5804.0,,,,True
+pond_4389488f,West Godavari,2023-11-29,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1200.0,,,82000,0,Planned harvest,
+pond_2ec8980d,Nellore,2023-11-26,Partial harvest,Chaitanya,,Roopchand,10,,833.0,,,5000,6000,Planned harvest,
+pond_19e0e052,Nellore,2023-11-25,Partial harvest,Chaitanya,,Roopchand,10,,1000.0,,,30000,60000,Planned harvest,
+pond_dc98e449,West Godavari,2023-11-24,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,230.0,3443,3443.0,,,,
+pond_89aabef8,West Godavari,2023-11-24,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,80.0,6250,6250.0,,,,
+pond_3ed934a6,West Godavari,2023-11-22,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,5059,5059.0,,,,False
+pond_f9e817c6,West Godavari,2023-11-22,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,150.0,,,4500,0,Planned harvest,
+pond_8e6046b4,West Godavari,2023-11-19,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,1000.0,,,108000,0,Planned harvest,
+pond_4302964d,West Godavari,2023-11-19,Harvest,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,,,5000000,,Planned harvest,
+pond_c8879b29,West Godavari,2023-11-19,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,3154,3154.0,,,,
+pond_c8879b29,West Godavari,2023-11-18,Harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1400.0,,,111000,0,Planned harvest,
+pond_d452b0a2,West Godavari,2023-11-16,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,40.0,13183,13183.0,,,,False
+pond_ec1ee982,Nellore,2023-11-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",9:1,,250.0,3750,3750.0,,,,False
+pond_55356fc9,West Godavari,2023-11-14,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2830,2830.0,,,,False
+pond_89aabef8,West Godavari,2023-11-14,Harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,300.0,,,15000,,Planned harvest,
+pond_dc98e449,West Godavari,2023-11-13,Harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1200.0,,,52000,,Planned harvest,
+pond_32a4efa1,West Godavari,2023-11-11,Partial harvest,Nagaraju P.,Breed-out,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,350.0,,,30450,53000,Planned harvest,
+pond_aae69640,Nellore,2023-11-10,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,1142.0,,,16000,0,Planned harvest,
+pond_d452b0a2,West Godavari,2023-11-10,Harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,200.0,,,9000,0,Planned harvest,
+pond_5e81f369,West Godavari,2023-11-09,Stocking,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,350.0,2489,2489.0,,,,
+pond_e71ae278,West Godavari,2023-11-08,Stocking,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,5952,5952.0,,,,
+pond_c295a799,West Godavari,2023-11-07,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,35087,35087.0,,,,False
+pond_bd0f4fd7,Nellore,2023-11-06,Harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,833.0,,,2500,0,Planned harvest,
+pond_5e81f369,West Godavari,2023-11-06,Harvest,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1350.0,,,100000,0,Planned harvest,
+pond_ec1ee982,Nellore,2023-11-03,Harvest,Chaitanya,,Roopchand,10,,833.0,,,2500,0,Planned harvest,
+pond_299152dc,Nellore,2023-11-02,Stocking,Chaitanya,,"Roopchand, Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,3000,3000.0,,,,False
+pond_91c4302d,Nellore,2023-11-02,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,100.0,4629,4629.0,,,,True
+pond_7fd480e0,West Godavari,2023-11-02,Stocking,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,60.0,6019,6019.0,,,,
+pond_11799705,West Godavari,2023-10-25,Partial stocking,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,300.0,1884,1884.0,,,,
+pond_20c3d3aa,West Godavari,2023-10-21,Stocking,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,150.0,9975,9975.0,,,,False
+pond_01f1ab5c,West Godavari,2023-10-21,Stocking,Nagaraju P.,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,25.0,19853,19853.0,,,,
+pond_caca406c,West Godavari,2023-10-20,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2592,2592.0,,,,False
+pond_299152dc,Nellore,2023-10-19,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",9:1,,900.0,,,2700,0,Planned harvest,
+pond_e71ae278,West Godavari,2023-10-18,Harvest,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,500.0,,,13000,,Planned harvest,
+pond_f4e94600,West Godavari,2023-10-16,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,6247,6247.0,,,,False
+pond_bdf8fe72,West Godavari,2023-10-15,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,3012,3012.0,,,,False
+pond_8fd1554c,West Godavari,2023-10-10,Stocking,Sanjay,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,25.0,7660,7660.0,,,,
+pond_b842374c,Nellore,2023-10-09,Harvest,Chaitanya,,Roopchand,10,,1000.0,,,2500,0,Planned harvest,
+pond_7fd480e0,West Godavari,2023-10-08,Harvest,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",9:1,,500.0,,,30000,0,Planned harvest,
+pond_a2125373,West Godavari,2023-10-07,Stocking,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,300.0,3882,3882.0,,,,False
+pond_1d249330,Nellore,2023-10-04,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,925.0,,,3700,0,Planned harvest,
+pond_cab7ba82,West Godavari,2023-10-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,11765,11765.0,,,,False
+pond_bbf2cb2b,West Godavari,2023-10-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,5.0,85714,85714.0,,,,False
+pond_254a57a2,West Godavari,2023-10-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,5.0,100000,100000.0,,,,False
+pond_c2428871,West Godavari,2023-09-30,Stocking,Sai,,Roopchand,10,,50.0,,15000.0,,,,
+pond_20c3d3aa,West Godavari,2023-09-26,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,950.0,,,26000,,Planned harvest,
+pond_f9e817c6,West Godavari,2023-09-26,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,10000,,,,,
+pond_ddf602a6,West Godavari,2023-09-25,Stocking,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,520.0,8852,8852.0,,,,
+pond_7e1ace3d,West Godavari,2023-09-25,Stocking,Sanjay,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,6915,6915.0,,,,
+pond_90a9bb25,West Godavari,2023-09-22,Stocking,Sanjay,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,60.0,4545,4545.0,,,,
+pond_a2125373,West Godavari,2023-09-22,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1020.0,,,40000,,Planned harvest,
+pond_70614260,West Godavari,2023-09-20,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,5803,5803.0,,,,False
+pond_32a4efa1,West Godavari,2023-09-20,Stocking,Nagaraju P.,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,8750,,,,,
+pond_5a0db1d6,West Godavari,2023-09-14,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,1818,1818.0,,,,False
+pond_f9218e7b,West Godavari,2023-09-12,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,1381,1381.0,,,,False
+pond_edb67ba0,Nellore,2023-09-10,Stocking,Chandu,,Roopchand,10,,100.0,3333,3333.0,,,,
+pond_1c1e7d4b,Nellore,2023-09-10,Stocking,Chandu,,Roopchand,10,,100.0,4091,4091.0,,,,
+pond_11799705,West Godavari,2023-09-10,Partial harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,650.0,,,15000,20000,Planned harvest,
+pond_aabd8703,Nellore,2023-09-09,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,2000,2000.0,,,,
+pond_a2a9984f,Nellore,2023-09-04,Stocking,Chandu,,Roopchand,10,,250.0,3429,3429.0,,,,
+pond_aef38b14,Nellore,2023-09-03,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",7:3,,900.0,3000,,,,,
+pond_040f0594,West Godavari,2023-09-01,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1000.0,,,90000,0,Planned harvest,
+pond_ddf602a6,West Godavari,2023-09-01,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1020.0,,,"51,750",0,Planned harvest,
+pond_960111d3,West Godavari,2023-09-01,Stocking,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,4300,4300.0,,,,
+pond_bf58902e,Nellore,2023-09-01,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,3000,3000.0,,,,
+pond_863e7ed4,Nellore,2023-09-01,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,3000,3000.0,,,,
+pond_884b1189,West Godavari,2023-08-31,Harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,750.0,,,15000,0,Planned harvest,
+pond_91c4302d,Nellore,2023-08-30,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,960.0,,,24000,0,Planned harvest,
+pond_c2428871,West Godavari,2023-08-30,Harvest,Sai,,Roopchand,10,,200.0,,,14000,0,Planned harvest,
+pond_3be25c81,Nellore,2023-08-25,Stocking,Chandu,,Roopchand,10,,100.0,3429,3429.0,,,,
+pond_a10e5445,Nellore,2023-08-25,Stocking,Chandu,,Roopchand,10,,100.0,3600,3600.0,,,,
+pond_f41bd81d,West Godavari,2023-08-24,Stocking,Sanjay,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,4467,4467.0,,,,
+pond_727e3097,West Godavari,2023-08-22,Stocking,Sanjay,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,9767,9767.0,,,,
+pond_da9e5287,Nellore,2023-08-20,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,50.0,3333,3333.0,,,,
+pond_6c237175,West Godavari,2023-08-20,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,300.0,,,3300,0,Planned harvest,
+pond_0630b31e,West Godavari,2023-08-20,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,600.0,,,9000,0,Planned harvest,
+pond_d10c6be5,West Godavari,2023-08-20,Harvest,Sai,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,,,700,,Planned harvest,
+pond_960111d3,West Godavari,2023-08-19,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1000.0,,,58000,0,Planned harvest,
+pond_a434fd56,West Godavari,2023-08-18,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,10.0,71429,71429.0,,,,
+pond_c2458988,West Godavari,2023-08-15,Stocking,Praveen,,"Catla (Catla catla), Rohu (Labeo rohita)",8.8:1.2,,,4624,4624.0,,,,False
+pond_51789df8,West Godavari,2023-08-11,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,11666,,,,,
+pond_3a0067e4,West Godavari,2023-08-07,Stocking,Praveen,Rearing,"Catla (Catla catla), Rohu (Labeo rohita)",8:2,,5.0,21053,21053.0,,,,False
+pond_8e2bb040,West Godavari,2023-08-07,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2028,2028.0,,,,False
+pond_ac78f7f3,West Godavari,2023-08-03,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2410,2410.0,,,,
+pond_917e0459,West Godavari,2023-08-02,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,350.0,2759,2759.0,,,,
+pond_c9e38cb5,West Godavari,2023-08-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2100,,,,,
+pond_ca0205fa,West Godavari,2023-08-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2100,,,,,
+pond_bd0e0d33,West Godavari,2023-07-28,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,25.0,11707,11707.0,,,,
+pond_1bf4ea64,Nellore,2023-07-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3571,3571.0,,,,
+pond_a3c9d163,Nellore,2023-07-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3261,3261.0,,,,
+pond_10b0b2f6,Nellore,2023-07-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3333,3333.0,,,,
+pond_d252b4e3,Nellore,2023-07-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,3571,3571.0,,,,
+pond_a6d694f5,West Godavari,2023-07-25,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,6875,,,,,
+pond_1c1e7d4b,Nellore,2023-07-23,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,833.0,,,5000,0,Planned harvest,
+pond_c7407a79,West Godavari,2023-07-23,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2700,,,,,
+pond_da3b5851,Nellore,2023-07-20,Stocking,Chaitanya,,Roopchand,,,,2500,,,,,
+pond_edb67ba0,Nellore,2023-07-19,Harvest,Chandu,,Roopchand,,,1000.0,,,3000,0,Planned harvest,
+pond_b842374c,Nellore,2023-07-17,Partial harvest,Chandu,,Roopchand,,,1000.0,,,5000,2500,Planned harvest,
+pond_863e7ed4,Nellore,2023-07-16,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,933.0,,,7000,0,Planned harvest,
+pond_5773604b,Nellore,2023-07-15,Harvest,Chandu,,Roopchand,,,833.0,,,5000,0,Planned harvest,
+pond_18ce7935,Nellore,2023-07-15,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,600.0,,,2400,0,,
+pond_9719af6d,Nellore,2023-07-14,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,400.0,,3200.0,,,,
+pond_4cef5872,Nellore,2023-07-12,Stocking,Chandu,,Roopchand,10,,40.0,3594,3594.0,,,,
+pond_b11d4126,West Godavari,2023-07-10,Stocking,Chaitanya,Breed-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,30.0,3226,3226.0,,,,False
+pond_917e0459,West Godavari,2023-07-10,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,1300.0,,,40000,0,Planned harvest,
+pond_aabd8703,Nellore,2023-07-10,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,950.0,,,9500,0,Planned harvest,
+pond_1dbb9f8d,Nellore,2023-07-10,Stocking,Chandu,,Roopchand,,,,2500,,,,,
+pond_1d648007,Nellore,2023-07-09,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,50.0,3000,3000.0,,,,
+pond_9a0003fb,West Godavari,2023-07-04,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,450.0,3500,3500.0,,,,
+pond_e71ae278,West Godavari,2023-07-04,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,80.0,5000,5000.0,,,,
+pond_a2125373,West Godavari,2023-07-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,1765,,,,,
+pond_c8cfdcb5,West Godavari,2023-06-30,Harvest,Jennifer Kirsch,,"Rohu (Labeo rohita), Catla (Catla catla)",1:1,,900.0,,,13000,0,Planned harvest,
+pond_7b5c9c53,West Godavari,2023-06-18,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,800.0,,,50000,0,Planned harvest,
+pond_f569e116,Nellore,2023-06-17,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",9:0.8:0.2,,30.0,3214,3214.0,,,,
+pond_0b18540f,West Godavari,2023-06-16,Partial harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,950.0,,,11000,25000,Planned harvest,
+pond_2e1713ae,Nellore,2023-06-15,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Grass Carp (Ctenopharyngodon idella)",,,70.0,3000,3000.0,,,,
+pond_4afa4e4f,West Godavari,2023-06-08,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,40.0,11025,11025.0,,,,False
+pond_891bf2fe,Nellore,2023-06-05,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Grass Carp (Ctenopharyngodon idella)",9:0.8:0.2,,70.0,4286,4286.0,,,,
+pond_7fd480e0,West Godavari,2023-06-03,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,3000,3076.0,,,,
+pond_ee1be8cb,West Godavari,2023-06-02,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2200,2200.0,,,,
+pond_f18f1d57,Nellore,2023-06-02,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,400.0,3000,,,,,
+pond_884b1189,West Godavari,2023-06-01,Partial stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,400.0,1000,1000.0,,,,
+pond_299152dc,Nellore,2023-06-01,Stocking,Chaitanya,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,,3000.0,,,,
+pond_f1f0953d,West Godavari,2023-06-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,250.0,2131,2131.0,,,,
+pond_ca25b296,West Godavari,2023-06-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2422,,,,,
+pond_89aabef8,West Godavari,2023-06-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,55000,,,,,
+pond_b3126696,West Godavari,2023-06-01,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2000,,,,,
+pond_4fc9a5af,Nellore,2023-06-01,Stocking,Chaitanya,Grow-out,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,60.0,,,,,,
+pond_e71ae278,West Godavari,2023-05-31,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,330.0,,,13500,,Planned harvest,
+pond_ee1be8cb,West Godavari,2023-05-29,Harvest,Nagaraju P.,,,,,1200.0,,,147000,,Planned harvest,
+pond_87edd7c9,West Godavari,2023-05-29,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,6283,6283.0,,,,False
+pond_d01750af,Nellore,2023-05-28,Stocking,Chaitanya,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2909.0,,,,
+pond_9a0003fb,West Godavari,2023-05-23,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,1400.0,,,80000,0,Planned harvest,
+pond_7fd480e0,West Godavari,2023-05-22,Partial harvest,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,350.0,,,18000,,Planned harvest,
+pond_2e1713ae,Nellore,2023-05-21,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,770.0,,,13000,0,Planned harvest,
+pond_ba85724b,Nellore,2023-05-20,Stocking,Chandu,,Roopchand,,,,2000,,,,,
+pond_1d648007,Nellore,2023-05-19,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_7e4b5572,Nellore,2023-05-19,Stocking,Chaitanya,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,40.0,3635,3635.0,,,,
+pond_891bf2fe,Nellore,2023-05-18,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,733.0,,,2200,0,Planned harvest,
+pond_da9e5287,Nellore,2023-05-15,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_09e8bfb8,West Godavari,2023-05-12,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,20.0,33333,33333.0,,,,
+pond_09e8bfb8,West Godavari,2023-05-11,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,155.0,,,12100,,Planned harvest,
+pond_e78b9c9a,West Godavari,2023-05-11,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,75.0,8966,8966.0,,,,
+pond_5e81f369,West Godavari,2023-05-05,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_e78b9c9a,West Godavari,2023-05-04,Harvest,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,545.0,,,36000,,Planned harvest,
+pond_8dd26bbf,West Godavari,2023-05-04,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,350.0,2400,2400.0,,,,
+pond_299152dc,Nellore,2023-04-25,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_8dd26bbf,West Godavari,2023-04-24,Harvest,Nikhil,,,,,2000.0,,,157000,,Planned harvest,
+pond_a10e5445,Nellore,2023-04-22,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_3be25c81,Nellore,2023-04-22,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_680c8104,West Godavari,2023-04-19,Partial harvest,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",,,375.0,,,15000,,Planned harvest,
+pond_87edd7c9,West Godavari,2023-04-15,Harvest,Nagaraju P.,,,,,250.0,,,25000,,Planned harvest,
+pond_9719af6d,Nellore,2023-04-14,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_dc98e449,West Godavari,2023-04-14,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2714,,,,,
+pond_a2a9984f,Nellore,2023-04-09,Harvest,Chaitanya,,,,,,,,,,Planned harvest,
+pond_07ed9225,Nellore,2023-04-04,Stocking,Chandu,,Roopchand,,,1100.0,2666,,,,,
+pond_d01750af,Nellore,2023-04-01,Harvest,Chandu,,,,,910.0,,,15500,,Planned harvest,
+pond_8e6046b4,West Godavari,2023-03-31,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,300.0,2345,2345.0,,,,False
+pond_680c8104,West Godavari,2023-03-27,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,3000,3000.0,,,,
+pond_7fd480e0,West Godavari,2023-03-25,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,200.0,2100,2100.0,,,,
+pond_5f9e292b,West Godavari,2023-03-25,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,2500,2500.0,,,,
+pond_040f0594,West Godavari,2023-03-24,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,250.0,2676,2676.0,,,,
+pond_33221a45,West Godavari,2023-03-22,Stocking,Sai,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,2600,,,,,
+pond_1c1e7d4b,Nellore,2023-03-18,Partial harvest,Chandu,,,,,1000.0,,,3000,,Planned harvest,
+pond_20c3d3aa,West Godavari,2023-03-18,Partial harvest,Nagaraju P.,,,,,1400.0,,,6000,,Planned harvest,
+pond_5f9e292b,West Godavari,2023-03-18,Harvest,Nikhil,,,,,1600.0,,,160000,,Planned harvest,
+pond_7fc56232,Nellore,2023-03-15,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,3200,,,,,
+pond_09f0cd92,Nellore,2023-03-15,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,850.0,3571,,,,,
+pond_040f0594,West Godavari,2023-03-14,Harvest,Nikhil,,,,,1400.0,,,120000,,Planned harvest,
+pond_91c4302d,Nellore,2023-03-14,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,100.0,,4545.0,,,,
+pond_f2e849c5,Nellore,2023-03-11,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla), Pangasius",,,70.0,,3600.0,,,,
+pond_bf58902e,Nellore,2023-03-11,Harvest,Chandu,,,,,833.0,,,10000,,Planned harvest,
+pond_cf53cb6f,Nellore,2023-03-11,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Roopchand",,,50.0,,3000.0,,,,
+pond_373669d6,Nellore,2023-03-05,Stocking,Chandu,Grow-out,"Catla (Catla catla), Grass Carp (Ctenopharyngodon idella), Whiteleg Shrimp (Litopenaeus vannamei)",9:1,,70.0,,440.0,,,,
+pond_da579dd5,Nellore,2023-03-04,Stocking,Nagaraju B.,Grow-out,"Rohu (Labeo rohita), Roopchand",9:1,,50.0,,3462.0,,,,
+pond_0b972252,Nellore,2023-03-02,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,100.0,3000,2272.0,,,,
+pond_3f61267e,West Godavari,2023-03-02,Partial harvest,Nikhil,,,,,600.0,,,2000,,Planned harvest,
+pond_0630b31e,West Godavari,2023-02-28,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,80.0,5000,3000.0,,,,
+pond_7e4b5572,Nellore,2023-02-25,Harvest,Chandu,,,,,675.0,,,4050,,Planned harvest,
+pond_95fa2b00,Nellore,2023-02-25,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Whiteleg Shrimp (Litopenaeus vannamei)",,,40.0,,2300.0,,,,
+pond_884b1189,West Godavari,2023-02-23,Harvest,Chaitanya,,,,,1000.0,,,40000,,Planned harvest,
+pond_e71ae278,West Godavari,2023-02-21,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,80.0,5000,4444.0,,,,
+pond_c8cfdcb5,West Godavari,2023-02-21,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,400.0,2500,2500.0,,,,
+pond_2868ff26,West Godavari,2023-02-20,Harvest,Nagaraju P.,,,,,250.0,,,15000,,Planned harvest,
+pond_0630b31e,West Godavari,2023-02-20,Harvest,Nikhil,,,,,900.0,,,5000,,Planned harvest,
+pond_e71ae278,West Godavari,2023-02-16,Harvest,Nagaraju P.,,,,,300.0,,,15000,,Planned harvest,
+pond_2e0e9d1a,West Godavari,2023-02-08,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,300.0,2230,2230.0,,,,False
+pond_03e8b599,West Godavari,2023-02-06,Partial stocking,Nikhil,,Roopchand,,,30.0,3500,3500.0,,,,
+pond_8e6046b4,West Godavari,2023-02-06,Harvest,Nagaraju P.,,,,,1100.0,,,147000,,Planned harvest,
+pond_2ec8980d,Nellore,2023-02-06,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand",,,350.0,3000,,,,,
+pond_03e8b599,West Godavari,2023-02-04,Partial stocking,Nikhil,,Pangasius,,,50.0,,6000.0,,,,
+pond_03e8b599,West Godavari,2023-02-01,Harvest,Nikhil,,,,,1000.0,,,17000,,Planned harvest,
+pond_91c4302d,Nellore,2023-01-28,Harvest,Chandu,,,,,1250.0,,,25000,,Planned harvest,
+pond_ec1ee982,Nellore,2023-01-28,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,50.0,3500,3000.0,,,,
+pond_3238ce6b,West Godavari,2023-01-23,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,4762,4762.0,,,,
+pond_f3ee5c50,West Godavari,2023-01-23,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla), Pangasius",9:1,,20.0,9285,9285.0,,,,
+pond_9af26ee3,Nellore,2023-01-22,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,50.0,2500,2500.0,,,,
+pond_fde7b1e2,Nellore,2023-01-20,Harvest,Nagaraju B.,,,,,570.0,,,3700,,Planned harvest,
+pond_c8cfdcb5,West Godavari,2023-01-19,Harvest,Nikhil,,,,,1100.0,,,7000,,Planned harvest,
+pond_f3ee5c50,West Godavari,2023-01-19,Harvest,Nikhil,,,,,400.0,,,2500,,Planned harvest,
+pond_d1de1045,Nellore,2023-01-19,Stocking,Chaitanya,,Roopchand,10,,50.0,3750,3750.0,,,,
+pond_cc764bfd,West Godavari,2023-01-17,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,,59055,59055.0,,,,False
+pond_cf53cb6f,Nellore,2023-01-17,Harvest,Nagaraju B.,,,,,600.0,,,7500,,Planned harvest,
+pond_dda2c111,Nellore,2023-01-17,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",,,,3375,,,,,
+pond_0b972252,Nellore,2023-01-14,Harvest,Nagaraju B.,,,,,875.0,,,70000,,Planned harvest,
+pond_19e0e052,Nellore,2023-01-13,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,40.0,,4500.0,,,,
+pond_edb67ba0,Nellore,2023-01-08,Harvest,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,900.0,,,2700,0,Planned harvest,
+pond_d452b0a2,West Godavari,2023-01-07,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_0b18540f,West Godavari,2023-01-03,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,300.0,2200,2187.0,,,,
+pond_8a45828a,West Godavari,2023-01-02,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,50.0,57692,57692.0,,,,
+pond_299152dc,Nellore,2022-12-31,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,400.0,,2800.0,,,,
+pond_0b18540f,West Godavari,2022-12-30,Harvest,Nagaraju P.,,,,,1100.0,,,37000,,Planned harvest,
+pond_299152dc,Nellore,2022-12-29,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,450.0,,2800.0,,,,
+pond_aae69640,Nellore,2022-12-27,Stocking,Chaitanya,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,3000,3000.0,,,,True
+pond_1c1e7d4b,Nellore,2022-12-26,Stocking,Nagaraju B.,,Roopchand,,,40.0,,3000.0,,,,
+pond_ec1ee982,Nellore,2022-12-26,Harvest,Nagaraju B.,,,,,824.0,,,3050,0,Planned harvest,
+pond_299152dc,Nellore,2022-12-23,Harvest,Nagaraju B.,,,,,720.0,,,1800,0,Planned harvest,
+pond_95fa2b00,Nellore,2022-12-23,Harvest,Nagaraju B.,,,,,532.0,,,1400,0,Planned harvest,
+pond_8dd26bbf,West Godavari,2022-12-16,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_0b18540f,West Godavari,2022-12-15,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,150.0,1882,1882.0,,,,
+pond_f2e849c5,Nellore,2022-12-15,Harvest,Chandu,,,,,925.0,,,18500,0,Planned harvest,
+pond_25351efc,Nellore,2022-12-14,Harvest,Chandu,,,,,625.0,,,12500,0,Planned harvest,
+pond_11799705,West Godavari,2022-12-14,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_ddf602a6,West Godavari,2022-11-24,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,40.0,7022,7022.0,,,,
+pond_74fd6eb7,West Godavari,2022-11-22,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2100,,,,,
+pond_1894f1b9,West Godavari,2022-11-16,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_891bf2fe,Nellore,2022-11-14,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,50.0,,3000.0,,,,
+pond_4389488f,West Godavari,2022-11-10,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,2000,2000.0,,,,
+pond_ddf602a6,West Godavari,2022-11-10,Harvest,Maneesh,,,,,,,,18000,1000,Planned harvest,
+pond_960111d3,West Godavari,2022-11-10,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2000,2000.0,,,,
+pond_960111d3,West Godavari,2022-11-09,Harvest,Maneesh,,,,,,,,58000,,Planned harvest,
+pond_09b2c644,West Godavari,2022-11-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,50.0,5183,5183.0,,,,
+pond_8e6046b4,West Godavari,2022-11-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_87edd7c9,West Godavari,2022-11-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5500,,,,,
+pond_ee1be8cb,West Godavari,2022-11-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_917e0459,West Godavari,2022-11-06,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2000,2000.0,,,,
+pond_b842374c,Nellore,2022-11-05,Harvest,Chandu,,,,,650.0,,,4500,0,Planned harvest,
+pond_da579dd5,Nellore,2022-11-05,Harvest,Chandu,,,,,,,,,,Disease outbreak,
+pond_19e0e052,Nellore,2022-11-05,Harvest,Chandu,,,,,1000.0,,,57000,0,Planned harvest,
+pond_bd0f4fd7,Nellore,2022-11-03,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,50.0,,3000.0,,,,
+pond_1bde2fe0,West Godavari,2022-11-02,Harvest,Maneesh,,,,,150.0,,,4250,,Planned harvest,
+pond_4389488f,West Godavari,2022-11-01,Harvest,Maneesh,,,,,1200.0,,,72000,3000,Planned harvest,
+pond_917e0459,West Godavari,2022-10-29,Harvest,Maneesh,,,,,,,,47000,,Planned harvest,
+pond_373669d6,Nellore,2022-10-28,Harvest,Chandu,,,,,850.0,,,4450,0,Planned harvest,
+pond_299152dc,Nellore,2022-10-28,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,500.0,,2300.0,,,,
+pond_1d249330,Nellore,2022-10-23,Stocking,Nagaraju B.,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2666,,,,,
+pond_1c1e7d4b,Nellore,2022-10-21,Harvest,Chandu,,,,,900.0,,,1800,0,Planned harvest,
+pond_299152dc,Nellore,2022-10-20,Harvest,Chandu,,,,,750.0,,,1400,0,Disease outbreak,
+pond_2e1713ae,Nellore,2022-10-20,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei), Pangasius",,,80.0,,2833.0,,,,
+pond_4302964d,West Godavari,2022-10-19,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_0c63298a,West Godavari,2022-10-18,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_c8879b29,West Godavari,2022-10-15,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,250.0,2200,2200.0,,,,
+pond_ee1be8cb,West Godavari,2022-10-15,Harvest,Maneesh,,,,,,,,2000,0,Planned harvest,
+pond_9a0003fb,West Godavari,2022-10-15,Stocking,Maneesh,,,,,250.0,2080,2080.0,,,,
+pond_5773604b,Nellore,2022-10-14,Stocking,Nagaraju B.,,Roopchand,,,,,2000.0,,,,
+pond_884b1189,West Godavari,2022-10-14,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,2000.0,2000,2000.0,,,,
+pond_2f7733e2,Nellore,2022-10-13,Harvest,Nagaraju B.,,,,,,,,1800,0,Planned harvest,
+pond_43720001,Nellore,2022-10-13,Harvest,Nagaraju B.,,,,,,,,1200,0,Planned harvest,
+pond_7fd480e0,West Godavari,2022-10-13,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2759,2759.0,,,,
+pond_891bf2fe,Nellore,2022-10-12,Harvest,Nagaraju B.,,,,,,,,,,Planned harvest,
+pond_20c3d3aa,West Godavari,2022-10-11,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,4500,,,,,
+pond_eb2903bd,West Godavari,2022-10-11,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_9a0003fb,West Godavari,2022-10-10,Harvest,Maneesh,,,,,,,,60000,,Planned harvest,
+pond_c8879b29,West Godavari,2022-10-10,Harvest,Maneesh,,,,,1500.0,,,60000,,Planned harvest,
+pond_06a67c0e,West Godavari,2022-10-10,Harvest,Nagaraju P.,,,,,360.0,,,24000,,Planned harvest,
+pond_aabd8703,Nellore,2022-10-09,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,,2857.0,,,,
+pond_1d648007,Nellore,2022-10-08,Stocking,Nagaraju B.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1650.0,,,,
+pond_a8a2b3a8,West Godavari,2022-10-08,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",9:1,,100.0,3571,3571.0,,,,
+pond_e78b9c9a,West Godavari,2022-10-08,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_5773604b,Nellore,2022-10-07,Harvest,Nagaraju B.,,,,,,,,5000,1000,Planned harvest,
+pond_3be25c81,Nellore,2022-10-07,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Pangasius",,,,3500,2300.0,,,,
+pond_a10e5445,Nellore,2022-10-07,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3500,2250.0,,,,
+pond_04e640c0,Nellore,2022-10-06,Harvest,Nagaraju B.,,,,,,,,1000,0,Planned harvest,
+pond_aabd8703,Nellore,2022-10-02,Harvest,Chandu,,,,,,,,9200,0,Planned harvest,
+pond_7fd480e0,West Godavari,2022-09-29,Partial harvest,Maneesh,,,,,,,,24000,16000,Planned harvest,
+pond_a2a9984f,Nellore,2022-09-27,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,,4625.0,,,,
+pond_ec1ee982,Nellore,2022-09-25,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,,3700.0,,,,
+pond_c2428871,West Godavari,2022-09-23,Partial harvest,Maneesh,,,,,,,,4000,10000,Planned harvest,
+pond_06a67c0e,West Godavari,2022-09-22,Harvest,Maneesh,,,,,,,,28000,0,Planned harvest,
+pond_1d648007,Nellore,2022-09-20,Harvest,Nagaraju B.,,,,,,,,1770,0,Planned harvest,
+pond_a2a9984f,Nellore,2022-09-19,Harvest,Chandu,,,,,,,,15000,0,Planned harvest,
+pond_373669d6,Nellore,2022-09-17,Partial harvest,Chandu,,,,,,,,1700,6000,Planned harvest,
+pond_8a45828a,West Godavari,2022-09-16,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,700,700.0,,,,
+pond_8a45828a,West Godavari,2022-09-16,Harvest,Maneesh,,,,,,,,140,,Planned harvest,
+pond_884b1189,West Godavari,2022-09-13,Harvest,Maneesh,,,,,,,,38000,,Planned harvest,
+pond_6c237175,West Godavari,2022-09-10,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,5.0,13000,12500.0,,,,
+pond_d10c6be5,West Godavari,2022-09-10,Stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,5.0,13000,8333.0,,,,
+pond_b17567d5,West Godavari,2022-09-10,Harvest,Maneesh,,,,,,,,27000,,Planned harvest,
+pond_ec1ee982,Nellore,2022-09-10,Harvest,Chandu,,,,,,,,3500,0,Planned harvest,
+pond_7127c135,West Godavari,2022-09-09,Harvest,Chaitanya,,,,,,,,14000,,Planned harvest,
+pond_2868ff26,West Godavari,2022-09-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5500,,,,,
+pond_da063d58,West Godavari,2022-09-07,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,7000,,,,,
+pond_e71ae278,West Godavari,2022-09-01,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5555,,,,,
+pond_2e1713ae,Nellore,2022-08-29,Harvest,Chandu,,,,,,,,16500,0,Planned harvest,
+pond_302e375c,Nellore,2022-08-28,Harvest,Chandu,,,,,,,,3600,0,Planned harvest,
+pond_3f61267e,West Godavari,2022-08-28,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2042,2042.0,,,,
+pond_1c92418d,Nellore,2022-08-27,Harvest,Chandu,,,,,,,,3300,0,Planned harvest,
+pond_bf58902e,Nellore,2022-08-27,Stocking,Nagaraju B.,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_da9e5287,Nellore,2022-08-26,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,3000.0,,,,
+pond_863e7ed4,Nellore,2022-08-25,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,3000,2500.0,,,,
+pond_da9e5287,Nellore,2022-08-21,Partial stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_3f61267e,West Godavari,2022-08-20,Partial stocking,Nikhil,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,8008,8008.0,,,,
+pond_bd0f4fd7,Nellore,2022-08-20,Harvest,Chandu,,,,,,,,2450,0,Planned harvest,
+pond_a296fb36,West Godavari,2022-08-19,Stocking,Maneesh,,Roopchand,,,,35000,35000.0,,,,
+pond_edb67ba0,Nellore,2022-08-17,Stocking,Chandu,,Roopchand,,,,3000,3000.0,,,,
+pond_1c1e7d4b,Nellore,2022-08-17,Stocking,Chandu,,Roopchand,,,,3000,3000.0,,,,
+pond_c30c0534,Nellore,2022-08-17,Harvest,Chandu,,,,,,,,850,0,,
+pond_3f61267e,West Godavari,2022-08-16,Harvest,Nikhil,,,,,,,,8000,,Planned harvest,
+pond_c0b647c8,Nellore,2022-08-15,Harvest,Chandu,,,,,,,,10500,0,Planned harvest,
+pond_5f9e292b,West Godavari,2022-08-10,Stocking,Nagaraju P.,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2100,2100.0,,,,
+pond_1bde2fe0,West Godavari,2022-08-07,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_bcde8e46,Nellore,2022-08-06,Harvest,Chandu,,,,,,,,9300,0,Planned harvest,
+pond_1c1e7d4b,Nellore,2022-08-05,Harvest,Chandu,,,,,,,,2500,0,Planned harvest,
+pond_5f9e292b,West Godavari,2022-08-05,Harvest,Maneesh,,,,,,,,85000,,Planned harvest,
+pond_9af26ee3,Nellore,2022-08-04,Harvest,Chandu,,,,,,,,5500,0,Planned harvest,
+pond_da579dd5,Nellore,2022-08-04,Stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_1a41cc50,West Godavari,2022-08-03,Harvest,Maneesh,,,,,2000.0,,,65000,,Planned harvest,
+pond_03e8b599,West Godavari,2022-08-01,Partial stocking,Nikhil,,Roopchand,,,,2500,2000.0,,,,
+pond_04e640c0,Nellore,2022-07-28,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_891bf2fe,Nellore,2022-07-27,Stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_d01750af,Nellore,2022-07-25,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,3090.0,,,,
+pond_edb67ba0,Nellore,2022-07-23,Harvest,Chandu,,,,,,,,5250,0,Planned harvest,
+pond_03e8b599,West Godavari,2022-07-15,Harvest,Nikhil,,,,,,,,23750,1000,Planned harvest,
+pond_a79fbbe7,West Godavari,2022-07-12,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2500,2500.0,,,,
+pond_3238ce6b,West Godavari,2022-07-07,Harvest,Maneesh,,,,,,,,1800,,Planned harvest,
+pond_fb8a70d1,Nellore,2022-07-07,Harvest,Chandu,,,,,,,,,0,,
+pond_c8cfdcb5,West Godavari,2022-07-06,Partial harvest,Maneesh,,,,,,,,6000,,Planned harvest,
+pond_863e7ed4,Nellore,2022-07-05,Harvest,Chandu,,,,,,,,4500,0,Disease outbreak,
+pond_91c4302d,Nellore,2022-07-03,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_04e640c0,Nellore,2022-06-26,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_da9e5287,Nellore,2022-06-21,Harvest,Chandu,,,,,,,,1950,0,Planned harvest,
+pond_9719af6d,Nellore,2022-06-21,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Roopchand",,,,,3333.0,,,,
+pond_43720001,Nellore,2022-06-18,Partial harvest,Chandu,,,,,,,,1000,900,Planned harvest,
+pond_2f7733e2,Nellore,2022-06-18,Partial harvest,Chandu,,,,,,,,1000,900,Planned harvest,
+pond_d01750af,Nellore,2022-06-17,Harvest,Chandu,,,,,,,,14000,0,Planned harvest,
+pond_19e0e052,Nellore,2022-06-10,Partial harvest,Chandu,,,,,,,,10000,74000,Planned harvest,
+pond_7a4f1082,West Godavari,2022-06-07,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_a79fbbe7,West Godavari,2022-06-04,Harvest,Maneesh,,,,,,,,3300,0,Planned harvest,
+pond_1d648007,Nellore,2022-06-04,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_09e8bfb8,West Godavari,2022-06-01,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",9:1,,20.0,33333,33333.0,,,,
+pond_0630b31e,West Godavari,2022-05-31,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2500,1846.0,,,,
+pond_d10c6be5,West Godavari,2022-05-31,Harvest,Nikhil,,,,,,,,1750,0,Planned harvest,
+pond_6c237175,West Godavari,2022-05-31,Harvest,Nikhil,,,,,,,,1250,0,Planned harvest,
+pond_299152dc,Nellore,2022-05-27,Partial stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_b842374c,Nellore,2022-05-27,Partial stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_c2428871,West Godavari,2022-05-20,Stocking,Nikhil,,Roopchand,,,,10000,10000.0,,,,
+pond_299152dc,Nellore,2022-05-14,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_3f2d6b7f,West Godavari,2022-05-12,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_7e4b5572,Nellore,2022-05-10,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_a2a9984f,Nellore,2022-05-09,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_9719af6d,Nellore,2022-05-06,Harvest,Chandu,,,,,,,,55000,0,Planned harvest,
+pond_91c4302d,Nellore,2022-05-01,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,3333.0,,,,
+pond_3be25c81,Nellore,2022-04-30,Partial harvest,Chandu,,,,,,,,4000,11000,Planned harvest,
+pond_d01750af,Nellore,2022-04-29,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_891bf2fe,Nellore,2022-04-25,Harvest,Chandu,,,,,,,,2000,0,Planned harvest,
+pond_fb8a70d1,Nellore,2022-04-23,Partial harvest,Chandu,,,,,,,,2700,,Planned harvest,
+pond_3238ce6b,West Godavari,2022-04-21,Partial harvest,Maneesh,,,,,,,,1450,,Planned harvest,
+pond_f3ee5c50,West Godavari,2022-04-21,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,5000,3500.0,,,,
+pond_04e640c0,Nellore,2022-04-21,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei), Pangasius",,,,,480.0,,,,
+pond_cdd2c67f,West Godavari,2022-04-20,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_bcde8e46,Nellore,2022-04-18,Partial harvest,Chandu,,,,,,,,2000,,Planned harvest,
+pond_9a0003fb,West Godavari,2022-04-15,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_19e0e052,Nellore,2022-04-09,Partial harvest,Chandu,,,,,,,,13000,86000,Planned harvest,
+pond_c8879b29,West Godavari,2022-04-08,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_5f9e292b,West Godavari,2022-04-01,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2200,2139.0,,,,
+pond_0630b31e,West Godavari,2022-03-31,Harvest,Maneesh,,,,,,,,180000,0,Planned harvest,
+pond_da579dd5,Nellore,2022-03-27,Harvest,Chandu,,,,,,,,3700,0,Planned harvest,
+pond_7127c135,West Godavari,2022-03-24,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,1700,1000.0,,,,
+pond_91c4302d,Nellore,2022-03-20,Harvest,Chandu,,,,,,,,22000,0,Planned harvest,
+pond_1a41cc50,West Godavari,2022-03-20,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_edb67ba0,Nellore,2022-03-15,Partial harvest,Chandu,,,,,,,,1780,9000,Planned harvest,
+pond_917e0459,West Godavari,2022-03-15,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_373669d6,Nellore,2022-03-12,Stocking,Chandu,,Roopchand,,,,,3000.0,,,,
+pond_5f9e292b,West Godavari,2022-03-10,Harvest,Maneesh,,,,,,,,110000,,Planned harvest,
+pond_863e7ed4,Nellore,2022-03-10,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_884b1189,West Godavari,2022-03-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_0b972252,Nellore,2022-03-07,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3636,,,,,
+pond_c8cfdcb5,West Godavari,2022-03-05,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1142.0,,,,
+pond_f3ee5c50,West Godavari,2022-03-05,Harvest,Maneesh,,,,,,,,2000,,Planned harvest,
+pond_ddf602a6,West Godavari,2022-03-04,Harvest,Maneesh,,,,,,,,15000,0,Planned harvest,
+pond_ddf602a6,West Godavari,2022-03-04,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,5000,5000.0,,,,
+pond_960111d3,West Godavari,2022-03-04,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2000,1923.0,,,,
+pond_299152dc,Nellore,2022-03-04,Partial stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_2e1713ae,Nellore,2022-03-04,Stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_373669d6,Nellore,2022-03-02,Partial harvest,Chandu,,,,,,,,5000,1500 (Approx 1.5 Ton),Planned harvest,
+pond_960111d3,West Godavari,2022-03-02,Harvest,Maneesh,,,,,,,,60000,2000,Planned harvest,
+pond_c761dfcb,West Godavari,2022-03-02,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_4add0860,West Godavari,2022-03-02,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_1d648007,Nellore,2022-03-01,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,1550.0,,,,
+pond_a2a9984f,Nellore,2022-02-28,Stocking,Chandu,,Roopchand,,,,4250,,,,,
+pond_b842374c,Nellore,2022-02-27,Stocking,Chandu,Grow-out,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_a10e5445,Nellore,2022-02-25,Harvest,Chandu,,,,,,,,12000,0,Planned harvest,
+pond_a296fb36,West Godavari,2022-02-19,Harvest,Maneesh,,,,,,,,600,,Planned harvest,
+pond_0b18540f,West Godavari,2022-02-17,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1764.0,,,,
+pond_1d648007,Nellore,2022-02-15,Harvest,Chandu,,,,,,,,,0,Planned harvest,
+pond_0b18540f,West Godavari,2022-02-14,Harvest,Maneesh,,,,,,,,32600,,Planned harvest,
+pond_5773604b,Nellore,2022-02-12,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand, Pangasius",,,,,4000.0,,,,
+pond_3f61267e,West Godavari,2022-02-12,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2800,2600.0,,,,
+pond_c8cfdcb5,West Godavari,2022-02-12,Partial harvest,Maneesh,,,,,,,,1162 fish/acre,,Planned harvest,
+pond_c2428871,West Godavari,2022-02-12,Harvest,Maneesh,,,,,,,,2500 fish/acre,,,
+pond_2334039b,West Godavari,2022-02-11,Stocking,Maneesh,,,,,,2500,,,,,
+pond_7127c135,West Godavari,2022-02-10,Harvest,Nikhil,,,,,,,,1177 fish/acre,,Planned harvest,
+pond_3f61267e,West Godavari,2022-02-10,Partial harvest,Maneesh,,,,,,,,3000 kg,,Planned harvest,
+pond_b842374c,Nellore,2022-02-08,Partial stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2800.0,,,,
+pond_03e8b599,West Godavari,2022-02-08,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2600,,,,,
+pond_c30c0534,Nellore,2022-02-04,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand",,,,2500-2700,1750.0,,,,
+pond_95fa2b00,Nellore,2022-02-02,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Pangasius",,,,,2630.0,,,,
+pond_da579dd5,Nellore,2022-01-21,Partial harvest,Chandu,,,,,,,,,,Planned harvest,
+pond_419f7325,Nellore,2022-01-20,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2600.0,,,,
+pond_18ce7935,Nellore,2022-01-20,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,4200,,,,,
+pond_299152dc,Nellore,2022-01-13,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,2250.0,,,,
+pond_06a67c0e,West Godavari,2022-01-12,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5000,,,,,
+pond_419f7325,Nellore,2022-01-10,Harvest,Chandu,,,,,,,,2005,,Planned harvest,
+pond_302e375c,Nellore,2022-01-05,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand",,,,3000,,,,,
+pond_edb67ba0,Nellore,2022-01-02,Stocking,Chandu,,Roopchand,,,,,3000.0,,,,
+pond_1c1e7d4b,Nellore,2022-01-02,Stocking,Chandu,,Roopchand,,,,,3000.0,,,,
+pond_4389488f,West Godavari,2022-01-02,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_7b5c9c53,West Godavari,2021-12-31,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2622.0,,,,
+pond_cf53cb6f,Nellore,2021-12-30,Stocking,Chandu,,Rohu (Labeo rohita),,,,,2500.0,,,,
+pond_bd0f4fd7,Nellore,2021-12-30,Stocking,Chandu,,Roopchand,,,,,3000.0,,,,
+pond_25351efc,Nellore,2021-12-30,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,3846.0,,,,
+pond_f2e849c5,Nellore,2021-12-29,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,3333.0,,,,
+pond_9af26ee3,Nellore,2021-12-28,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand",,,,,2285.0,,,,
+pond_fb8a70d1,Nellore,2021-12-28,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,1575,,,,,
+pond_95fa2b00,Nellore,2021-12-20,Stocking,Chaitanya,Grow-out,Roopchand,,,,2300,,,,,
+pond_b842374c,Nellore,2021-12-15,Harvest,Chandu,,,,,,,,"3000/ac, total farmer harvested 7.2tons of fish (approx. 7300 No.) of fish for whole pond. ",,Planned harvest,
+pond_2e1713ae,Nellore,2021-12-15,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2666.0,,,,
+pond_1c1e7d4b,Nellore,2021-12-15,Stocking,Chaitanya,,Roopchand,,,,3000,,,,,
+pond_edb67ba0,Nellore,2021-12-15,Stocking,Chaitanya,Grow-out,Roopchand,,,,3000,,,,,
+pond_680c8104,West Godavari,2021-12-15,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2300,,,,,
+pond_9af26ee3,Nellore,2021-12-13,Harvest,Vivek,,,,,,,,"8,000 kg",,Planned harvest,
+pond_5773604b,Nellore,2021-12-12,Harvest,Vivek,,,,,,,,"9,000 kg",,Planned harvest,
+pond_cf53cb6f,Nellore,2021-12-12,Harvest,Vivek,,,,,,,,"A total of 13tons of fish (Approx. 15,000No. of fish) are harvested. They harvested as a two day process, ""1st day 5.5 tons were harvested & 2nd day 7.5 were harvested"".",,Planned harvest,
+pond_bd0f4fd7,Nellore,2021-12-09,Stocking,Chaitanya,Grow-out,Roopchand,,,,2700,,,,,
+pond_75cb7fc7,West Godavari,2021-12-07,Stocking,Maneesh,,Pangasius,,,,,5000.0,,,,
+pond_ec1ee982,Nellore,2021-12-05,Stocking,Chandu,,Roopchand,,,,,4000.0,,,,
+pond_b37f4a76,West Godavari,2021-12-02,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",10,,200.0,4630,4630.0,,,,
+pond_b37f4a76,West Godavari,2021-12-02,Harvest,Maneesh,,,,,,,,8500 kg,,Planned harvest,
+pond_a8a2b3a8,West Godavari,2021-12-02,Harvest,Maneesh,,,,,,,,7000 kg,,Planned harvest,
+pond_1d648007,Nellore,2021-11-27,Stocking,Chandu,Grow-out,,,,,,,,,,
+pond_aabd8703,Nellore,2021-11-24,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",,,,2285,,,,,
+pond_fde7b1e2,Nellore,2021-11-21,Partial harvest,Vivek,,,,,,,,2000,,Planned harvest,
+pond_5d670c6a,West Godavari,2021-11-17,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2500,,,,,
+pond_1d648007,Nellore,2021-11-10,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla), Grass Carp (Ctenopharyngodon idella), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,1550.0,,,,
+pond_71014681,West Godavari,2021-11-10,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2600,,,,,
+pond_bcde8e46,Nellore,2021-11-10,Stocking,Chandu,,"Rohu (Labeo rohita), Roopchand",,,,2500,,,,,
+pond_9719af6d,Nellore,2021-11-10,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2166,,,,,
+pond_f3ee5c50,West Godavari,2021-11-09,Stocking,Nikhil,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,26666,,,,,
+pond_7d346c89,West Godavari,2021-11-09,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2300,,,,,
+pond_f2e849c5,Nellore,2021-11-08,Harvest,Chandu,,,,,,,,14000,0,Planned harvest,
+pond_3238ce6b,West Godavari,2021-11-08,Stocking,Nikhil,,,,,,24000,,,,,
+pond_25351efc,Nellore,2021-11-03,Harvest,Chandu,,,,,,,,12000,0,Planned harvest,
+pond_2e1713ae,Nellore,2021-11-02,Harvest,Chandu,,,,,,,,18000,0,Planned harvest,
+pond_b331fac4,West Godavari,2021-11-02,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2500,,,,,
+pond_419f7325,Nellore,2021-11-01,Partial harvest,Vivek,,,,,,,,1000,,Planned harvest,
+pond_d01750af,Nellore,2021-10-30,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2700.0,,,,
+pond_19e0e052,Nellore,2021-10-28,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",,,,5100,,,,,
+pond_891bf2fe,Nellore,2021-10-20,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2400,2400.0,,,,
+pond_ddf602a6,West Godavari,2021-10-18,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,6000,,,,,
+pond_3f61267e,West Godavari,2021-10-17,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,750.0,,,,
+pond_da579dd5,Nellore,2021-10-15,Partial stocking,Chandu,,Whiteleg Shrimp (Litopenaeus vannamei),,,,,,,,,
+pond_75cb7fc7,West Godavari,2021-10-12,Harvest,Maneesh,,,,,,,,3000 fish,,Disease outbreak,
+pond_040f0594,West Godavari,2021-10-12,Stocking,Nikhil,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2100,,,,,
+pond_3f61267e,West Godavari,2021-10-03,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,2000.0,,,,
+pond_c8cfdcb5,West Godavari,2021-10-03,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,2083.0,,,,
+pond_c8cfdcb5,West Godavari,2021-09-30,Harvest,Maneesh,,,,,,,,15000 kg (13000 fish),,Planned harvest,
+pond_dd65512a,West Godavari,2021-09-29,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3500,2800.0,,,,
+pond_7b5c9c53,West Godavari,2021-09-28,Partial harvest,Maneesh,,,,,,,,"5000 (3600 fish) - catla 2kg avg, rohu 1.5kg avg",,Planned harvest,
+pond_04e640c0,Nellore,2021-09-28,Stocking,Fiverr,,,,,,2500,,,,,
+pond_75cb7fc7,West Godavari,2021-09-21,Partial harvest,Maneesh,,,,,,,,13000,,Disease outbreak,
+pond_7b5c9c53,West Godavari,2021-09-21,Partial stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,2500,1652.0,,,,
+pond_3f61267e,West Godavari,2021-09-20,Harvest,Maneesh,,,,,,,,14000 (12000 fish),0,Planned harvest,
+pond_5f9e292b,West Godavari,2021-09-18,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_d01750af,Nellore,2021-09-17,Harvest,Vivek,,,,,,,,14000,,Planned harvest,
+pond_960111d3,West Godavari,2021-09-17,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_891bf2fe,Nellore,2021-09-12,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2700,,,,,
+pond_dd65512a,West Godavari,2021-09-02,Harvest,Maneesh,,,,,,,,15000,,Planned harvest,
+pond_d01750af,Nellore,2021-08-20,Partial harvest,Vivek,,,,,,,,,,Planned harvest,
+pond_6c237175,West Godavari,2021-08-17,Stocking,Nikhil,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,6000,,,,,
+pond_d10c6be5,West Godavari,2021-08-17,Stocking,Nikhil,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,5333,,,,,
+pond_2f7733e2,Nellore,2021-08-10,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1800.0,,,,
+pond_43720001,Nellore,2021-08-10,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1800.0,,,,
+pond_90a9bb25,West Godavari,2021-08-10,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,33333,,,,,
+pond_0b18540f,West Godavari,2021-08-10,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2800,,,,,
+pond_7fd480e0,West Godavari,2021-08-10,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_dd65512a,West Godavari,2021-08-08,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_54d85974,West Godavari,2021-08-03,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,2400.0,,,,
+pond_3be25c81,Nellore,2021-07-27,Partial harvest,Chandu,,,,,,,,,15000,,
+pond_54d85974,West Godavari,2021-07-27,Harvest,Maneesh,,,,,,,,"60,000",,Planned harvest,
+pond_a10e5445,Nellore,2021-07-27,Partial stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,1166.0,,,,
+pond_a10e5445,Nellore,2021-07-23,Partial harvest,Chandu,,,,,,,,7000,,Planned harvest,
+pond_c8cfdcb5,West Godavari,2021-07-20,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_08e76f1c,West Godavari,2021-07-20,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_3f61267e,West Godavari,2021-07-17,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_76f58d13,Nellore,2021-07-17,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_b17567d5,West Godavari,2021-07-15,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2000,,,,,
+pond_54d85974,West Godavari,2021-07-12,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3300,,,,,
+pond_0630b31e,West Godavari,2021-07-10,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3250,,,,,
+pond_c0b647c8,Nellore,2021-07-08,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,3000.0,,,,
+pond_b37f4a76,West Godavari,2021-07-08,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3250,,,,,
+pond_a8a2b3a8,West Godavari,2021-07-08,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3250,,,,,
+pond_299152dc,Nellore,2021-07-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_da579dd5,Nellore,2021-06-21,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,3000.0,,,,
+pond_1c92418d,Nellore,2021-06-20,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,4500,,,,,
+pond_c2428871,West Godavari,2021-06-17,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_a79fbbe7,West Godavari,2021-06-17,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_c2428871,West Godavari,2021-06-12,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,2875.0,,,,
+pond_a79fbbe7,West Godavari,2021-06-12,Stocking,Maneesh,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,3000,2875.0,,,,
+pond_8a45828a,West Godavari,2021-06-07,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,1500,,,,,
+pond_419f7325,Nellore,2021-06-06,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_419f7325,Nellore,2021-06-04,Stocking,Vivek,,"Rohu (Labeo rohita), Catla (Catla catla), Whiteleg Shrimp (Litopenaeus vannamei)",,,,,2500.0,,,,
+pond_75cb7fc7,West Godavari,2021-04-20,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_7b5c9c53,West Godavari,2021-04-20,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_7127c135,West Godavari,2021-04-15,Stocking,Maneesh,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2200,,,,,
+pond_9af26ee3,Nellore,2021-04-10,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2800,,,,,
+pond_a296fb36,West Godavari,2021-04-07,Stocking,Jennifer Kirsch,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_373669d6,Nellore,2021-04-04,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_b842374c,Nellore,2021-03-09,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita), Mrigal (Cirrhinus cirrhosus)",,,,2500,,,,,
+pond_cf53cb6f,Nellore,2021-03-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,
+pond_f2e849c5,Nellore,2021-03-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,4000,,,,,
+pond_fde7b1e2,Nellore,2021-02-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_3be25c81,Nellore,2021-01-17,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,7500.0,,,,
+pond_a10e5445,Nellore,2021-01-17,Stocking,Chandu,,"Rohu (Labeo rohita), Catla (Catla catla)",,,,,2500.0,,,,
+pond_25351efc,Nellore,2021-01-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_2e1713ae,Nellore,2021-01-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_da9e5287,Nellore,2020-12-28,Stocking,Chandu,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,2600,,,,,
+pond_5773604b,Nellore,2020-12-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita), Roopchand",,,,3500,,,,,
+pond_91c4302d,Nellore,2020-08-03,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_3be25c81,Nellore,2020-01-14,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_a10e5445,Nellore,2020-01-14,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3500,,,,,
+pond_d01750af,Nellore,2020-01-01,Stocking,Fiverr,,"Catla (Catla catla), Rohu (Labeo rohita)",,,,3000,,,,,

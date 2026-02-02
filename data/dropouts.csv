@@ -1,0 +1,95 @@
+pond_id,region,dropout_date,added_by,reason_category,tenancy_type,total_measurements
+pond_caca406c,West Godavari,2025-11-08,Chaitanya,Other,Leased,23
+pond_5aaa5b01,West Godavari,2025-10-16,Chaitanya,Changed to other finfish,Owned,8
+pond_c295a799,West Godavari,2025-10-16,Chaitanya,Other,Leased,60
+pond_cc764bfd,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,13
+pond_7c2f9913,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,4
+pond_bbf2cb2b,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,6
+pond_254a57a2,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,6
+pond_d452b0a2,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,50
+pond_28c916f9,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,13
+pond_01f1ab5c,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,20
+pond_c1aade15,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,12
+pond_f4e94600,West Godavari,2025-09-19,Chaitanya,Other,Leased,14
+pond_811d5777,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,2
+pond_0efe30b0,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
+pond_7e1ace3d,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,16
+pond_e71ae278,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,50
+pond_90a9bb25,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,30
+pond_5a0db1d6,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
+pond_a2125373,West Godavari,2025-09-19,Chaitanya,Changed to other finfish,Owned,20
+pond_040f0594,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,40
+pond_f41bd81d,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,14
+pond_32a4efa1,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
+pond_33221a45,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,10
+pond_18ce7935,Nellore,2025-09-10,Chaitanya,Stopped farming,,38
+pond_5773604b,Nellore,2025-09-10,Chaitanya,Stopped farming,Owned,80
+pond_518460bf,West Godavari,2025-06-17,Praveen,Changed to other finfish,Leased,10
+pond_f2e849c5,Nellore,2025-04-25,Chaitanya,Other,Leased,80
+pond_8a45828a,West Godavari,2025-04-08,Praveen,Other,Owned,104
+pond_f9e817c6,West Godavari,2025-04-08,Praveen,Other,Leased,30
+pond_6f30fefd,West Godavari,2025-02-25,Praveen,Other,Leased,0
+pond_70614260,West Godavari,2025-02-25,Praveen,Other,Leased,18
+pond_885057ef,West Godavari,2025-02-25,Praveen,Changed to shrimp,Leased,2
+pond_c9e38cb5,West Godavari,2024-12-01,Praveen,Other,,6
+pond_ca0205fa,West Godavari,2024-12-01,Praveen,Other,,6
+pond_6118ad90,West Godavari,2024-11-15,Praveen,Other,Leased,14
+pond_a6d694f5,West Godavari,2024-11-15,Praveen,Other,Owned,31
+pond_09b2c644,West Godavari,2024-11-15,Praveen,Changed to other finfish,Leased,34
+pond_c2428871,West Godavari,2024-11-14,Praveen,Changed to other finfish,Leased,97
+pond_f3ee5c50,West Godavari,2024-11-14,Praveen,Changed to other finfish,Owned,76
+pond_3238ce6b,West Godavari,2024-11-14,Praveen,Changed to other finfish,Owned,76
+pond_3f61267e,West Godavari,2024-11-14,Praveen,Other,,68
+pond_3f2d6b7f,West Godavari,2024-11-14,Praveen,Stopped farming,,8
+pond_b11d4126,West Godavari,2024-11-14,Praveen,Other,Leased,3
+pond_7d39a2cf,West Godavari,2024-11-10,Praveen,Other,Leased,3
+pond_32ca982f,West Godavari,2024-11-10,Praveen,Other,Leased,1
+pond_8e2bb040,West Godavari,2024-11-10,Praveen,Other,Leased,18
+pond_4389488f,West Godavari,2024-11-10,Praveen,Other,Owned,49
+pond_a296fb36,West Godavari,2024-11-08,Praveen,Other,,56
+pond_7b5c9c53,West Godavari,2024-11-08,Praveen,Changed to other finfish,,62
+pond_03e8b599,West Godavari,2024-11-08,Praveen,Changed to other finfish,,42
+pond_c8cfdcb5,West Godavari,2024-11-08,Praveen,Stopped farming,,69
+pond_7e4b5572,Nellore,2024-10-29,Chaitanya,Stopped farming,Owned,40
+pond_a8a2b3a8,West Godavari,2024-09-10,Praveen,Stopped farming,Leased,105
+pond_b37f4a76,West Godavari,2024-09-10,Praveen,Stopped farming,Owned,95
+pond_91c4302d,Nellore,2024-07-17,Chaitanya,Other,Owned,76
+pond_a10e5445,Nellore,2024-05-10,Chaitanya,Other,Owned,69
+pond_3be25c81,Nellore,2024-05-10,Chaitanya,Other,Owned,87
+pond_884b1189,West Godavari,2023-11-30,Chaitanya,Other,Leased,14
+pond_d10c6be5,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,42
+pond_6c237175,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,43
+pond_0630b31e,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,61
+pond_fb8a70d1,Nellore,2023-06-08,Chaitanya,Other,Owned,14
+pond_bcde8e46,Nellore,2023-06-08,Chaitanya,Other,Leased,14
+pond_fde7b1e2,Nellore,2023-06-08,Chaitanya,Other,Owned,73
+pond_25351efc,Nellore,2023-06-08,Chaitanya,Other,Leased,39
+pond_1c92418d,Nellore,2023-06-08,Chaitanya,Other,Owned,44
+pond_1bde2fe0,West Godavari,2023-06-02,Chaitanya,Other,Leased,2
+pond_2868ff26,West Godavari,2023-06-02,Chaitanya,Other,Owned,0
+pond_74fd6eb7,West Godavari,2023-06-01,Chaitanya,Other,Owned,0
+pond_06a67c0e,West Godavari,2023-04-20,Chaitanya,Other,Leased,7
+pond_1a41cc50,West Godavari,2023-04-18,Nikhil,Other,Owned,5
+pond_2334039b,West Godavari,2023-04-18,Nikhil,Other,Owned,0
+pond_7d346c89,West Godavari,2023-04-18,Nikhil,Other,Owned,23
+pond_c761dfcb,West Godavari,2023-04-18,Chaitanya,Other,Leased,4
+pond_4add0860,West Godavari,2023-04-18,Chaitanya,Other,Leased,4
+pond_da063d58,West Godavari,2023-04-18,Nikhil,Other,Leased,5
+pond_1894f1b9,West Godavari,2023-04-18,Nikhil,Other,Owned,0
+pond_cdd2c67f,West Godavari,2023-03-01,Nagaraju P.,Other,,0
+pond_302e375c,Nellore,2023-01-23,Nagaraju B.,Other,,18
+pond_a79fbbe7,West Godavari,2022-10-17,Maneesh,Other,,45
+pond_5d670c6a,West Godavari,2022-10-07,Maneesh,Other,,6
+pond_7127c135,West Godavari,2022-09-23,Maneesh,Other,,34
+pond_b17567d5,West Godavari,2022-09-13,Maneesh,Other,,30
+pond_54d85974,West Godavari,2022-08-29,Maneesh,Other,,28
+pond_75cb7fc7,West Godavari,2022-08-18,Maneesh,Other,,33
+pond_71014681,West Godavari,2022-06-22,Maneesh,Other,,19
+pond_b331fac4,West Godavari,2022-06-22,Maneesh,Other,,17
+pond_419f7325,Nellore,2022-03-01,Chaitanya,Other,,32
+pond_f3c7ba43,West Godavari,2022-01-04,Maneesh,Other,,18
+pond_7db27355,West Godavari,2022-01-04,Maneesh,Other,,18
+pond_76f58d13,Nellore,2021-12-01,Chaitanya,Other,,6
+pond_dd65512a,West Godavari,2021-11-25,Maneesh,Other,,6
+pond_08e76f1c,West Godavari,2021-11-13,Maneesh,Other,,6
+pond_7a4f1082,West Godavari,2021-10-07,Maneesh,Other,,4
