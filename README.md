@@ -6,7 +6,7 @@ Public dataset from the **Alliance for Responsible Aquaculture (ARA)** program o
 
 The ARA program works with fish farmers in India to improve fish welfare through water quality monitoring and management. Field staff conduct regular visits to measure water quality parameters and provide corrective action recommendations when measurements fall outside acceptable ranges.
 
-**Regions covered:** West Godavari and Nellore districts, Andhra Pradesh, India
+**Regions covered:** Eluru and Nellore districts, Andhra Pradesh, India
 
 **Program period:** June 2021 - January 2026 (ongoing)
 
@@ -50,5 +50,5 @@ For questions about this data, please contact: [fwi.fish/contact](https://fwi.fi
 ## Related Links
 
 - [Fish Welfare Initiative](https://www.fishwelfareinitiative.org/)
-- [ARA Program Overview](https://www.fishwelfareinitiative.org/research)
+- [ARA Program Overview](https://www.fishwelfareinitiative.org/ara)
 - [ARA Data Dashboard](https://data.fishwelfareinitiative.org/ara)

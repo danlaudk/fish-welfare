@@ -1,95 +1,95 @@
-pond_id,region,dropout_date,added_by,reason_category,tenancy_type,total_measurements
-pond_caca406c,West Godavari,2025-11-08,Chaitanya,Other,Leased,23
-pond_5aaa5b01,West Godavari,2025-10-16,Chaitanya,Changed to other finfish,Owned,8
-pond_c295a799,West Godavari,2025-10-16,Chaitanya,Other,Leased,60
-pond_cc764bfd,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,13
-pond_7c2f9913,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,4
-pond_bbf2cb2b,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,6
-pond_254a57a2,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,6
-pond_d452b0a2,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,50
-pond_28c916f9,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,13
-pond_01f1ab5c,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,20
-pond_c1aade15,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,12
-pond_f4e94600,West Godavari,2025-09-19,Chaitanya,Other,Leased,14
-pond_811d5777,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,2
-pond_0efe30b0,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
-pond_7e1ace3d,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,16
-pond_e71ae278,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,50
-pond_90a9bb25,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Leased,30
-pond_5a0db1d6,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
-pond_a2125373,West Godavari,2025-09-19,Chaitanya,Changed to other finfish,Owned,20
-pond_040f0594,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,40
-pond_f41bd81d,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,14
-pond_32a4efa1,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,2
-pond_33221a45,West Godavari,2025-09-19,Chaitanya,Changed to shrimp,Owned,10
-pond_18ce7935,Nellore,2025-09-10,Chaitanya,Stopped farming,,38
-pond_5773604b,Nellore,2025-09-10,Chaitanya,Stopped farming,Owned,80
-pond_518460bf,West Godavari,2025-06-17,Praveen,Changed to other finfish,Leased,10
-pond_f2e849c5,Nellore,2025-04-25,Chaitanya,Other,Leased,80
-pond_8a45828a,West Godavari,2025-04-08,Praveen,Other,Owned,104
-pond_f9e817c6,West Godavari,2025-04-08,Praveen,Other,Leased,30
-pond_6f30fefd,West Godavari,2025-02-25,Praveen,Other,Leased,0
-pond_70614260,West Godavari,2025-02-25,Praveen,Other,Leased,18
-pond_885057ef,West Godavari,2025-02-25,Praveen,Changed to shrimp,Leased,2
-pond_c9e38cb5,West Godavari,2024-12-01,Praveen,Other,,6
-pond_ca0205fa,West Godavari,2024-12-01,Praveen,Other,,6
-pond_6118ad90,West Godavari,2024-11-15,Praveen,Other,Leased,14
-pond_a6d694f5,West Godavari,2024-11-15,Praveen,Other,Owned,31
-pond_09b2c644,West Godavari,2024-11-15,Praveen,Changed to other finfish,Leased,34
-pond_c2428871,West Godavari,2024-11-14,Praveen,Changed to other finfish,Leased,97
-pond_f3ee5c50,West Godavari,2024-11-14,Praveen,Changed to other finfish,Owned,76
-pond_3238ce6b,West Godavari,2024-11-14,Praveen,Changed to other finfish,Owned,76
-pond_3f61267e,West Godavari,2024-11-14,Praveen,Other,,68
-pond_3f2d6b7f,West Godavari,2024-11-14,Praveen,Stopped farming,,8
-pond_b11d4126,West Godavari,2024-11-14,Praveen,Other,Leased,3
-pond_7d39a2cf,West Godavari,2024-11-10,Praveen,Other,Leased,3
-pond_32ca982f,West Godavari,2024-11-10,Praveen,Other,Leased,1
-pond_8e2bb040,West Godavari,2024-11-10,Praveen,Other,Leased,18
-pond_4389488f,West Godavari,2024-11-10,Praveen,Other,Owned,49
-pond_a296fb36,West Godavari,2024-11-08,Praveen,Other,,56
-pond_7b5c9c53,West Godavari,2024-11-08,Praveen,Changed to other finfish,,62
-pond_03e8b599,West Godavari,2024-11-08,Praveen,Changed to other finfish,,42
-pond_c8cfdcb5,West Godavari,2024-11-08,Praveen,Stopped farming,,69
-pond_7e4b5572,Nellore,2024-10-29,Chaitanya,Stopped farming,Owned,40
-pond_a8a2b3a8,West Godavari,2024-09-10,Praveen,Stopped farming,Leased,105
-pond_b37f4a76,West Godavari,2024-09-10,Praveen,Stopped farming,Owned,95
-pond_91c4302d,Nellore,2024-07-17,Chaitanya,Other,Owned,76
-pond_a10e5445,Nellore,2024-05-10,Chaitanya,Other,Owned,69
-pond_3be25c81,Nellore,2024-05-10,Chaitanya,Other,Owned,87
-pond_884b1189,West Godavari,2023-11-30,Chaitanya,Other,Leased,14
-pond_d10c6be5,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,42
-pond_6c237175,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,43
-pond_0630b31e,West Godavari,2023-08-20,Nagaraju P.,Other,Leased,61
-pond_fb8a70d1,Nellore,2023-06-08,Chaitanya,Other,Owned,14
-pond_bcde8e46,Nellore,2023-06-08,Chaitanya,Other,Leased,14
-pond_fde7b1e2,Nellore,2023-06-08,Chaitanya,Other,Owned,73
-pond_25351efc,Nellore,2023-06-08,Chaitanya,Other,Leased,39
-pond_1c92418d,Nellore,2023-06-08,Chaitanya,Other,Owned,44
-pond_1bde2fe0,West Godavari,2023-06-02,Chaitanya,Other,Leased,2
-pond_2868ff26,West Godavari,2023-06-02,Chaitanya,Other,Owned,0
-pond_74fd6eb7,West Godavari,2023-06-01,Chaitanya,Other,Owned,0
-pond_06a67c0e,West Godavari,2023-04-20,Chaitanya,Other,Leased,7
-pond_1a41cc50,West Godavari,2023-04-18,Nikhil,Other,Owned,5
-pond_2334039b,West Godavari,2023-04-18,Nikhil,Other,Owned,0
-pond_7d346c89,West Godavari,2023-04-18,Nikhil,Other,Owned,23
-pond_c761dfcb,West Godavari,2023-04-18,Chaitanya,Other,Leased,4
-pond_4add0860,West Godavari,2023-04-18,Chaitanya,Other,Leased,4
-pond_da063d58,West Godavari,2023-04-18,Nikhil,Other,Leased,5
-pond_1894f1b9,West Godavari,2023-04-18,Nikhil,Other,Owned,0
-pond_cdd2c67f,West Godavari,2023-03-01,Nagaraju P.,Other,,0
-pond_302e375c,Nellore,2023-01-23,Nagaraju B.,Other,,18
-pond_a79fbbe7,West Godavari,2022-10-17,Maneesh,Other,,45
-pond_5d670c6a,West Godavari,2022-10-07,Maneesh,Other,,6
-pond_7127c135,West Godavari,2022-09-23,Maneesh,Other,,34
-pond_b17567d5,West Godavari,2022-09-13,Maneesh,Other,,30
-pond_54d85974,West Godavari,2022-08-29,Maneesh,Other,,28
-pond_75cb7fc7,West Godavari,2022-08-18,Maneesh,Other,,33
-pond_71014681,West Godavari,2022-06-22,Maneesh,Other,,19
-pond_b331fac4,West Godavari,2022-06-22,Maneesh,Other,,17
-pond_419f7325,Nellore,2022-03-01,Chaitanya,Other,,32
-pond_f3c7ba43,West Godavari,2022-01-04,Maneesh,Other,,18
-pond_7db27355,West Godavari,2022-01-04,Maneesh,Other,,18
-pond_76f58d13,Nellore,2021-12-01,Chaitanya,Other,,6
-pond_dd65512a,West Godavari,2021-11-25,Maneesh,Other,,6
-pond_08e76f1c,West Godavari,2021-11-13,Maneesh,Other,,6
-pond_7a4f1082,West Godavari,2021-10-07,Maneesh,Other,,4
+Sr. No,Date of drop out,Added by,pond_id,region,Tenancy type,Pond measurements,Reason,Further details on reason
+95,11/08/2025,Chaitanya,pond_caca406c,Eluru,Leased,23,,Farmer has been unreachable for a very long time.
+94,10/16/2025,Chaitanya,pond_5aaa5b01,Eluru,Owned,8,Changed to farming another species of finfish,Farmer decided to do Pangasius culture
+93,10/16/2025,Chaitanya,pond_c295a799,Eluru,Leased,60,,Farmer sold all the fishes and gave away the lease agreement of this pond to another farmer and moved to another village
+92,09/19/2025,Chaitanya,pond_cc764bfd,Eluru,Owned,13,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+91,09/19/2025,Chaitanya,pond_7c2f9913,Eluru,Leased,4,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+90,09/19/2025,Chaitanya,pond_bbf2cb2b,Eluru,Owned,6,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+89,09/19/2025,Chaitanya,pond_254a57a2,Eluru,Owned,6,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+88,09/19/2025,Chaitanya,pond_d452b0a2,Eluru,Owned,50,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+87,09/19/2025,Chaitanya,pond_28c916f9,Eluru,Leased,13,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+86,09/19/2025,Chaitanya,pond_01f1ab5c,Eluru,Leased,20,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+85,09/19/2025,Chaitanya,pond_c1aade15,Eluru,Owned,12,Changed to farming crustaceans (e.g. shrimp),The farmer is doing shrimp culture.
+84,09/19/2025,Chaitanya,pond_f4e94600,Eluru,Leased,14,,The farmer is not working on this pond as this is under family property issues.
+83,09/19/2025,Chaitanya,pond_811d5777,Eluru,Leased,2,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+82,09/19/2025,Chaitanya,pond_0efe30b0,Eluru,Owned,2,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+81,09/19/2025,Chaitanya,pond_7e1ace3d,Eluru,Leased,16,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+80,09/19/2025,Chaitanya,pond_e71ae278,Eluru,Leased,50,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+79,09/19/2025,Chaitanya,pond_90a9bb25,Eluru,Leased,30,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+78,09/19/2025,Chaitanya,pond_5a0db1d6,Eluru,Owned,2,Changed to farming crustaceans (e.g. shrimp),The farmer is doing Shrimp culture.
+77,09/19/2025,Chaitanya,pond_a2125373,Eluru,Owned,20,Changed to farming another species of finfish,Farmer is doing Pangasius culture.
+76,09/19/2025,Chaitanya,pond_040f0594,Eluru,Owned,40,Changed to farming crustaceans (e.g. shrimp),Farmer is doing shrimp culture.
+75,09/19/2025,Chaitanya,pond_f41bd81d,Eluru,Owned,14,Changed to farming crustaceans (e.g. shrimp),Farmer is doing shrimp culture.
+74,09/19/2025,Chaitanya,pond_32a4efa1,Eluru,Owned,2,Changed to farming crustaceans (e.g. shrimp),Farmer is doing shrimp culture.
+73,09/19/2025,Chaitanya,pond_33221a45,Eluru,Owned,10,Changed to farming crustaceans (e.g. shrimp),Farmer is doing shrimp culture.
+72,09/10/2025,Chaitanya,pond_18ce7935,Nellore,,38,Stopped farming fish,"Farmer stopped aquaculture, fish pond is transformed into paddy field."
+71,09/10/2025,Chaitanya,pond_5773604b,Nellore,Owned,80,Stopped farming fish,"Farmer stopped aquaculture, fish pond is transformed into paddy field."
+70,06/17/2025,Praveen,pond_518460bf,Eluru,Leased,10,Changed to farming another species of finfish,The farmer has stocked Pangasius and Roopchand along with IMC.
+69,04/25/2025,Chaitanya,pond_f2e849c5,Nellore,Leased,80,,Not reducing the stocking density as per ARA commitment. Hence dropped out of the program.
+68,04/08/2025,Praveen,pond_8a45828a,Eluru,Owned,104,,It is a very small pond (0.1 acres) and only one left in the region.
+67,04/08/2025,Praveen,pond_f9e817c6,Eluru,Leased,30,,The farmer is not responding to our calls and not taking care of the pond so we decided to drop it out.
+66,02/25/2025,Praveen,pond_6f30fefd,Eluru,Leased,0,,The lease is over and a new farmer has taken the pond over.
+65,02/25/2025,Praveen,pond_70614260,Eluru,Leased,18,,The lease is over and a new farmer has taken the pond over.
+64,02/25/2025,Praveen,pond_885057ef,Eluru,Leased,2,Changed to farming crustaceans (e.g. shrimp),The farmer has moved to Shrimp culture in this pond.
+63,12/01/2024,Praveen,pond_c9e38cb5,Eluru,,6,,Farmers around this pond are not happy with outside people visiting the ponds. So the farmer has asked us to stop taking data from his ponds.
+62,12/01/2024,Praveen,pond_ca0205fa,Eluru,,6,,Farmers around this pond are not happy with outside people visiting the ponds. So the farmer has asked us to stop taking data from his ponds.
+61,11/15/2024,Praveen,pond_6118ad90,Eluru,Leased,14,,The lease for the pond is over and the farmer has left the pond.
+60,11/15/2024,Praveen,pond_a6d694f5,Eluru,Owned,31,,The lease for the pond is over and the farmer has left the pond.
+59,11/15/2024,Praveen,pond_09b2c644,Eluru,Leased,34,Changed to farming another species of finfish,The lease for the pond is over. A new farmer has taken the lease and is doing Pangasius culture.
+58,11/14/2024,Praveen,pond_c2428871,Eluru,Leased,97,Changed to farming another species of finfish,The lease is over and the farmer has left the pond. The new farmer who took the pond for lease is doing Pangasius culture.
+57,11/14/2024,Praveen,pond_f3ee5c50,Eluru,Owned,76,Changed to farming another species of finfish,The farmer has moved to Pangasius culture and is been reported that the pond is not maintained properly.
+56,11/14/2024,Praveen,pond_3238ce6b,Eluru,Owned,76,Changed to farming another species of finfish,The farmer has moved to Pangasius culture and is been reported that the pond is not maintained properly.
+55,11/14/2024,Praveen,pond_3f61267e,Eluru,,68,,The farmer has expired. The auction did not happen for a long time because of political issues.
+54,11/14/2024,Praveen,pond_3f2d6b7f,Eluru,,8,Stopped farming fish,The farmer has stopped aquaculture.
+53,11/14/2024,Praveen,pond_b11d4126,Eluru,Leased,3,,The lease is over and the farmer has left the pond. The farmer also mentioned disputes over sharing water with the neighbors as the reasons to leave the pond.
+52,11/10/2024,Praveen,pond_7d39a2cf,Eluru,Leased,3,,The lease for the pond is over and the farmer has left the pond.
+51,11/10/2024,Praveen,pond_32ca982f,Eluru,Leased,1,,The lease for the pond is over and the farmer has left the pond.
+50,11/10/2024,Praveen,pond_8e2bb040,Eluru,Leased,18,,The lease for the pond is over and the farmer has left the pond.
+49,11/10/2024,Praveen,pond_4389488f,Eluru,Owned,49,,We could not connect with the farmer for a long time and he has not been answering our calls.
+48,11/08/2024,Praveen,pond_a296fb36,Eluru,,56,,This is a community pond and the auction did not take place yet. The farmer is not willing to take it for lease because of higher lease cost.
+47,11/08/2024,Praveen,pond_7b5c9c53,Eluru,,62,Changed to farming another species of finfish,The farmer has moved to Pangasius culture and will continue with that.
+46,11/08/2024,Praveen,pond_03e8b599,Eluru,,42,Changed to farming another species of finfish,The farmer has shifted to Pangasius culture and he will continue with that species.
+45,11/08/2024,Praveen,pond_c8cfdcb5,Eluru,,69,Stopped farming fish,The farmer has left the pond because the auction did not happen for a long time because of political reasons. The farmer stopped farming fish.
+44,10/29/2024,Chaitanya,pond_7e4b5572,Nellore,Owned,40,Stopped farming fish,Farmer stopped doing aquaculture
+43,09/10/2024,Praveen,pond_a8a2b3a8,Eluru,Leased,105,Stopped farming fish,The farmer stopped aquaculture because there was no growth in the fish.
+42,09/10/2024,Praveen,pond_b37f4a76,Eluru,Owned,95,Stopped farming fish,The farmer stopped aquaculture because there was no growth in the fish.
+41,07/17/2024,Chaitanya,pond_91c4302d,Nellore,Owned,76,,"This has been one of our control ponds for very long. He stocks above our recommendation, so was kept under control. He is not decreasing the SD, so decided to let go off him."
+40,05/10/2024,Chaitanya,pond_a10e5445,Nellore,Owned,69,,"This had been a control pond, farmer is stocking higher than the SD capping. So, we decided not to continue in ARA."
+39,05/10/2024,Chaitanya,pond_3be25c81,Nellore,Owned,87,,"This had been a control pond, farmer is stocking higher than the SD capping. So, we decided not to continue in ARA."
+38,11/30/2023,Chaitanya,pond_884b1189,Eluru,Leased,14,Other (mention below),Lease period got ended and the farmer didn't renew his lease agreement. Another person got this pond on lease but he is doing pangasius culture so haven't added him to the ARA.
+35,08/20/2023,Nagaraju P.,pond_d10c6be5,Eluru,Leased,42,Other (mention below),Farmer left the Aquaculture due to Health Issues
+36,08/20/2023,Nagaraju P.,pond_6c237175,Eluru,Leased,43,Other (mention below),Farmer left the Aquaculture due to Health Issues
+37,08/20/2023,Nagaraju P.,pond_0630b31e,Eluru,Leased,61,Other (mention below),Farmer left the Aquaculture due to Health Issues
+30,06/08/2023,Chaitanya,pond_fb8a70d1,Nellore,Owned,14,Other (mention below),Farmer shifted to do only shrimp culture
+31,06/08/2023,Chaitanya,pond_bcde8e46,Nellore,Leased,14,Other (mention below),Farmer decided not to continue aquaculture as his lease period got ended.
+32,06/08/2023,Chaitanya,pond_fde7b1e2,Nellore,Owned,73,Other (mention below),"We decided to let go off this farmer as he is not reachable and not doing proper aquaculture, does it more like a side hustle with very less to no intervention."
+33,06/08/2023,Chaitanya,pond_25351efc,Nellore,Leased,39,Other (mention below),Farmer decided not to continue aquaculture as his lease period got ended.
+34,06/08/2023,Chaitanya,pond_1c92418d,Nellore,Owned,44,Other (mention below),Farmer is not doing aquaculture as he has some disputes with his brother regarding the inheritance of the land in which the pond is situated.
+28,06/02/2023,Chaitanya,pond_1bde2fe0,Eluru,Leased,2,Other (mention below),"The farmer decided not to continue his lease for this pond, so we are dropping him out of ARA. He has his another leased pond (pond_0b18540f) enrolled in ARA."
+29,06/02/2023,Chaitanya,pond_2868ff26,Eluru,Owned,0,Other (mention below),"Farmer decided to do exclusive shrimp culture, so we are dropping him out of ARA. He has another fish pond (pond_87edd7c9) which continues to be enrolled in ARA."
+27,06/01/2023,Chaitanya,pond_74fd6eb7,Eluru,Owned,0,Other (mention below),"We tried multiple times, the farmer is out of reach as he moved out of the country and enrolled the pond with Deepak NexGen feeds. so we are dropping him out of ARA."
+26,04/20/2023,Chaitanya,pond_06a67c0e,Eluru,Leased,7,Other (mention below),Farmers lease contract got ended and the new farmer who took this pond on lease is growing pangasius.
+19,04/18/2023,Nikhil,pond_1a41cc50,Eluru,Owned,5,Other (mention below),Culture change to shrimp.
+20,04/18/2023,Nikhil,pond_2334039b,Eluru,Owned,0,Other (mention below),Farmer stopped the aquaculture because of high investments.
+21,04/18/2023,Nikhil,pond_7d346c89,Eluru,Owned,23,Other (mention below),Farmer stopped the aquaculture because of high investments.
+22,04/18/2023,Chaitanya,pond_c761dfcb,Eluru,Leased,4,Other (mention below),Farmer stopped aquaculture.
+23,04/18/2023,Chaitanya,pond_4add0860,Eluru,Leased,4,Other (mention below),Farmer stopped aquaculture.
+24,04/18/2023,Nikhil,pond_da063d58,Eluru,Leased,5,Other (mention below),Culture change to shrimp
+25,04/18/2023,Nikhil,pond_1894f1b9,Eluru,Owned,0,Other (mention below),Culture change to shrimp.
+18,03/01/2023,Nagaraju P.,pond_cdd2c67f,Eluru,,0,Other (mention below),The farmer changed culture to shrimp.
+17,01/23/2023,Nagaraju B.,pond_302e375c,Nellore,,18,Other (mention below),Farmer Stopped Aquaculture.
+16,10/17/2022,Maneesh,pond_a79fbbe7,Eluru,,45,Other (mention below),The farmer is finding it difficult to continue aquaculture with raising feed prices.Lately government also added electric meters to his pond so he is having a power bill of close to 10k a month which he could not bare .
+14,10/07/2022,Maneesh,pond_5d670c6a,Eluru,,6,Other (mention below),This pond is located near a place that gets clogged when rains and the only way to reach this pond is through boat so data collection has been a problem in this pond.
+13,09/23/2022,Maneesh,pond_7127c135,Eluru,,34,Other (mention below),Due to rising feed prices and lease rates farmers are opting out of grow out culture and changing to breed out so this farmer also wanted to change culture to breed out so he leased out a new small pond where he is planning to do breed out culture .
+12,09/13/2022,Maneesh,pond_b17567d5,Eluru,,30,Other (mention below),Due to rising feed prices and lease rates farmers are opting out of grow out culture and changing to breed out so this farmer also wanted to change culture to breed out so he leased out a new small pond where he is planning to do breed out culture .
+11,08/29/2022,Maneesh,pond_54d85974,Eluru,,28,Other (mention below),The farmer changed his culture to breed out and he is currently farming Pegasus in his pond and also doesn't wish to work with us as he is leaving aquaculture as a whole to take care of his other businesses and also it has been incurring him loss since last three years.
+10,08/18/2022,Maneesh,pond_75cb7fc7,Eluru,,33,Other (mention below),the farmer was having mass mortalities in his pond and so we convinced him not to do aquaculture in that pond anymore.
+8,06/22/2022,Maneesh,pond_71014681,Eluru,,19,Other (mention below),The farmer had a culture change from grow out to breedout.
+9,06/22/2022,Maneesh,pond_b331fac4,Eluru,,17,Other (mention below),The farmer had a culture change from Grow out to breed out
+7,03/01/2022,Chaitanya,pond_419f7325,Nellore,,32,Other (mention below),The farmer doesn`t want to be associated with FWI and be a part of ARA because of the differences raised being a partner organization.
+5,01/04/2022,Maneesh,pond_f3c7ba43,Eluru,,18,Other (mention below),The farmer is carving out a new pond and also leased out another pond adjacent to the new pond .So in order to cut down costs he left away this pond.
+6,01/04/2022,Maneesh,pond_7db27355,Eluru,,18,Other (mention below),The farmer is carving out a new pond and also leased out another pond adjacent to the new pond .So in order to cut down costs he left away this pond.
+4,12/01/2021,Chaitanya,pond_76f58d13,Nellore,,6,Other (mention below),The farmer started exclusive shrimp culture so both of us mutually decided to move out of ARA.
+3,11/25/2021,Maneesh,pond_dd65512a,Eluru,,6,Other (mention below),"The farmer has incurred loses in his previous cycle that led him to drop out as he couldn't afford the growing lease ,feed and medicine costs for fish.Now he gave away his pond to Anji srinivas who is also a ARA member."
+2,11/13/2021,Maneesh,pond_08e76f1c,Eluru,,6,Other (mention below),"The farmers father recently got infected with corona and farmer has shelled out lot of money to get his father treated so now he didn't have enough resources to carryout aquaculture.So UC has given away his pond to SK With this, UC2 now turns into SK4."
+1,10/07/2021,Maneesh,pond_7a4f1082,Eluru,,4,Other (mention below),The farmer is looking to transition this pond into a shrimp pond.He is changing his culture.

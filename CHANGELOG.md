@@ -15,9 +15,8 @@ First public release of FWI ARA program data.
 - `dropouts.csv` - 94 program dropouts
 
 **Coverage:**
-- 304 unique ponds across West Godavari (241) and Nellore (63) districts
+- 304 unique ponds across Eluru (241) and Nellore (63) districts
 - Date range: June 19, 2021 to January 27, 2026
 
 **Notes:**
-- 2 stocking/harvest records with invalid dates were excluded from the source data
 - All pond IDs anonymized using deterministic hashing
