@@ -109,15 +109,17 @@ These columns track corrective actions that farmers took on their own initiative
 | `Notes` | General notes |
 | `Have fish been helped` | Whether fish have been helped through interventions (Yes/No). See our Impact Page (www.fwi.fish/impact) for more on this process. |
 
-### Acceptable Ranges (ARA Commitment)
+### Acceptable Ranges ([ARA Commitment](https://fwi.fish/commitment))
 
-| Parameter | Acceptable Range |
-|-----------|------------------|
-| Dissolved Oxygen | ≥ 3 mg/L (morning), ≥ 4 mg/L (evening) |
-| pH | 7.0 - 9.0 |
-| Ammonia (TAN) | < 0.5 mg/L (threshold until Aug 2025) |
-| Ammonia (NH₃) | < 0.05 mg/L (threshold from Aug 2025) |
-| Temperature | Species-dependent |
+| Parameter | Required Range | Ideal Range |
+|-----------|----------------|-------------|
+| Dissolved Oxygen (Morning) | 3 – 5 mg/L | 4 – 5 mg/L |
+| Dissolved Oxygen (Evening) | 8 – 12 mg/L | 8 – 10 mg/L |
+| pH | 6.5 – 8.5 | 7 – 8 |
+| Ammonia (TAN) | < 0.5 mg/L (threshold until Aug 2025) | |
+| Ammonia (NH₃) | < 0.05 mg/L (threshold from Aug 2025) | |
+
+Note that we have previously included turbidity and temperature as critical parameters, so data from earlier years may include these for the in-range/out-of-range classification. We have since excluded some of these parameters because either they tend to not be as important as we previously thought or we cannot actively control them (in which case we still monitor them).
 
 ### Ammonia Measurement Protocol Change (August 2025)
 
