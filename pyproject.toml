@@ -5,11 +5,17 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "arviz<1.0",
+    "bambi>=0.16.0",
     "folium>=0.20.0",
+    "jax>=0.10.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
+    "numpyro>=0.20.1",
     "pandas>=3.0.1",
     "plotly>=6.6.0",
+    "pymc>=5.28.0",
+    "scikit-learn>=1.8.0",
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.6",
