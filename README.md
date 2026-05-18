@@ -1,3 +1,26 @@
+# 2026 data consulting
+In April, Haven requested contractors / volunteers to take a last stab at the data. 
+We were given a brief, and a new pond_locations dataset (NOT PUBLIC) "Shared_ 2026 Github ARA Pond IDs Key.csv". (This is one of the key source data files)
+
+## Summary of findings / hypothesis
+Using weather data coupled with the GPS locations brought the result close to a prior attempt.
+This [graph](ModelSelection/nb11_test_predictions.png) shows the test predictions. 
+The model precision isn't good enough. 
+
+Data is not consistently collected from any single pond, nor from any single village. 
+Ponds are observed based on i) remedial action suspected (unobserved variables, and correlated) ii) need to visit all ponds somewhat regularly.  
+This introduces bias in sampling.
+The between-pond variation is large relative to the sampling frequency, that a mostly-weather model seems unlikely to have enough precision. 
+
+### Procedure
+After various methods, I attempted the state-of-the-art in aquaculture water quality prediction (a significant research discipline): transfer learning.
+There are not enough samples across the year (campaign data, two months), 
+or not dense enough (inconsistent collection on any single pond from 5-year data), 
+or monitoring equipment or ponds not similar enough (kaggle data), to capture and transfer month-seasonal patterns. 
+This is particularly important in the monsoon area. 
+
+I considered the data quantity insufficient for autogressive models like LSTM.
+
 # FWI Farm Data - India (up to Jan 31, 2026)
 
 Public dataset from the **Alliance for Responsible Aquaculture (ARA)** program operated by [Fish Welfare Initiative](https://www.fishwelfareinitiative.org/) in India.
